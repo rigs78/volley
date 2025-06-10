@@ -1,0 +1,29 @@
+name: Dagelijkse kalender update
+
+on:
+  schedule:
+    - cron: '15 5 * * *'  # elke dag om 05:15 UTC (~07:15 Belgische tijd)
+  workflow_dispatch:  # manueel uitvoerbaar via GitHub UI
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repo clonen
+        uses: actions/checkout@v3
+
+      - name: Python installeren
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Vereisten installeren
+        run: pip install requests
+
+      - name: Script uitvoeren
+        env:
+          GITHUB_USERNAME: ${{ secrets.GH_USERNAME }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          REPO_NAME: volley-kalender
+        run: python update_kalender.py
