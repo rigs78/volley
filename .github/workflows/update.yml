@@ -25,5 +25,5 @@ jobs:
         env:
           GITHUB_USERNAME: ${{ secrets.GH_USERNAME }}
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-          REPO_NAME: volley-kalender
+          REPO_NAME: volley
         run: python update_kalender.py
