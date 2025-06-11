@@ -2,7 +2,7 @@ name: Dagelijkse kalender update
 
 on:
   schedule:
-    - cron: '15 5 * * *'  # elke dag om 05:15 UTC (~07:15 Belgische tijd)
+    - cron: '15 2,15 * * *'  # elke dag om 05:15 UTC (~07:15 Belgische tijd)
   workflow_dispatch:  # manueel uitvoerbaar via GitHub UI
 
 jobs:
