@@ -42,6 +42,8 @@ def verwerk_ics(ics_inhoud):
         "OMU17N2R1c": "MU17A",
         "OMU17N2R1e": "MU17B",
         "OMU15N1R1c": "MU15A",
+        "OBM17": "Beker MU17",
+        "OBM15": "Beker MU15",
         "LIGD": "LIGD"
     }
 
