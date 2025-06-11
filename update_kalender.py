@@ -39,11 +39,11 @@ final_ics = "BEGIN:VCALENDAR\nVERSION:2.0\n" + combined_ics + "END:VCALENDAR"
 def verwerk_ics(ics_inhoud):
     # Mapping van wedstrijdcodeprefix naar afkorting
     code_mappings = {
-        "OMU17N2R1c": "MU17A",
-        "OMU17N2R1e": "MU17B",
-        "OMU15N1R1c": "MU15A",
-        "OBM17": "Beker MU17",
-        "OBM15": "Beker MU15",
+        "OMU17N2R1c": "M17A",
+        "OMU17N2R1e": "M17B",
+        "OMU15N1R1c": "M15A",
+        "OBM17": "Beker M17",
+        "OBM15": "Beker M15",
         "LIGD": "LIGD"
     }
 
