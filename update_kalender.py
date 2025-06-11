@@ -1,61 +1,25 @@
 import requests
 import urllib3
-import base64
-import json
 import os
 import re
 
 # Configuratie
-
 GITHUB_USERNAME = os.environ.get("GITHUB_USERNAME")
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
 REPO_NAME = os.environ.get("REPO_NAME")
 ICS_FILENAME = "volleykalender.ics"
-
 
 # SSL-verificatie uitschakelen voor bedrijfsnetwerken
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # ICS-bronnen van VolleyScores
 urls = [
-    "https://www.volleyscores.be/calendar/team/92669",
-    "https://www.volleyscores.be/calendar/team/92662",
-    "https://www.volleyscores.be/calendar/team/92670",
-    "https://www.volleyscores.be/calendar/team/92665",
-    "https://www.volleyscores.be/calendar/team/93447"
+    "https://www.volleyscores.be/calendar/team/92669", #u17a beker
+    "https://www.volleyscores.be/calendar/team/92662", #u15 beker
+    "https://www.volleyscores.be/calendar/team/92670", #u17 beker
+    "https://www.volleyscores.be/calendar/team/92665", #u15 beker
+    "https://www.volleyscores.be/calendar/team/93447" #michelbeke²
 ]
-
-
-team_name_replacements = {
-    "Forza EVO Volley OUDENAARDE": "FEVO",
-    "Forza EVO Volley OUDENAARDE U15 B meisjes": "FEVO U15B M",
-    "Forza EVO Volley OUDENAARDE U13 A meisjes": "FEVO U13A M",
-    "Forza EVO Volley OUDENAARDE U17 jongens": "FEVO U17 J",
-    "Forza EVO Volley OUDENAARDE U11 A meisjes": "FEVO U11A M",
-    "Forza EVO Volley OUDENAARDE U17 meisjes": "FEVO U17 M",
-    "Volley Team Zwijnaarde B": "VT Zwijnaarde B",
-    "VC Zandhoven U15 A meisjes": "Zandhoven U15A M"
-    # voeg meer als nodig
-}
-
-categorie_codes = {
-    "OMU17": "U17",
-    "OMU15": "U15",
-    "OMU13": "U13",
-    "OMU11": "U11",
-    "OMU19": "U19",
-    "OMU21": "U21"
-    # voeg eventueel meer toe
-}
-
-def vervang_summary_code(match):
-    full_code = match.group(1)  # bv. OMU17N2R1c-0001
-    teamline = match.group(2)   # rest van de summary
-    for prefix, label in categorie_codes.items():
-        if full_code.startswith(prefix):
-            return f"SUMMARY: {label} {teamline}"
-    return f"SUMMARY: {teamline}"  # fallback als geen match
-
 
 # ICS combineren
 combined_ics = ""
@@ -67,15 +31,50 @@ for url in urls:
 
 final_ics = "BEGIN:VCALENDAR\nVERSION:2.0\n" + combined_ics + "END:VCALENDAR"
 
+# ---------------------------
+# Functie: ICS inhoud bewerken
+# ---------------------------
+def verwerk_ics(ics_inhoud):
+    # Mapping van wedstrijdcodeprefix naar afkorting
+    code_mappings = {
+        "OMU17N2R1c": "MU17A",
+        "OMU17N2R1e": "MU17B",
+        "OMU15N1R1c": "MU15A",
+        "LIGD": "LIGD"
+    }
 
-for long_name, short_name in team_name_replacements.items():
-    final_ics = final_ics.replace(long_name, short_name)
-    
- 
-# Verwijder code vóór dubbelepunt in SUMMARY
-final_ics = re.sub(r'^SUMMARY:([A-Z0-9\-]+): ?(.*)$', vervang_summary_code, final_ics, flags=re.MULTILINE)
+    def vervang_summary(match):
+        fullcode = match.group(1)  # bv. OMU17N2R1c-0014
+        rest = match.group(2)      # bv. VC Hebo BORSBEKE-HERZELE B - FEVO A
+        prefix = fullcode.split("-")[0]  # enkel OMU17N2R1c
+        mapped = code_mappings.get(prefix)
+        if mapped:
+            return f"SUMMARY:{mapped}: {rest}"
+        else:
+            return f"SUMMARY: {rest}"
+
+    # Corrigeer alle SUMMARY-regels
+    ics_inhoud = re.sub(
+        r'^SUMMARY:([A-Za-z0-9\-]+): ?(.*)$',
+        vervang_summary,
+        ics_inhoud,
+        flags=re.MULTILINE
+    )
+
+    # Teamnaamverkortingen
+    team_name_replacements = {
+        "Forza Evo Volley OUDENAARDE": "FEVO",
+        "Vlavo Saturnus Michelbeke A": "Michelbeke"
+    }
+
+    for lang, kort in team_name_replacements.items():
+        ics_inhoud = ics_inhoud.replace(lang, kort)
+
+    return ics_inhoud
 
 
+# ICS-inhoud bewerken
+final_ics = verwerk_ics(final_ics)
 
 
 # GitHub API upload
@@ -112,3 +111,10 @@ else:
     print("❌ Upload mislukt:")
     print(upload_response.status_code)
     print(upload_response.text)
+
+
+# Opslaan als ICS-bestand
+#with open("gecombineerde_volley_kalender.ics", "w", encoding="utf-8") as file:
+#    file.write(final_ics)
+
+#print("✅ Gecombineerde kalender opgeslagen als 'gecombineerde_volley_kalender.ics'")
