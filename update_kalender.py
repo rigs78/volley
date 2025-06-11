@@ -3,6 +3,7 @@ import urllib3
 import base64
 import json
 import os
+import re
 
 # Configuratie
 
@@ -24,6 +25,20 @@ urls = [
     "https://www.volleyscores.be/calendar/team/93447"
 ]
 
+
+team_name_replacements = {
+    "Forza EVO Volley OUDENAARDE": "FEVO",
+    "Forza EVO Volley OUDENAARDE U15 B meisjes": "FEVO U15B M",
+    "Forza EVO Volley OUDENAARDE U13 A meisjes": "FEVO U13A M",
+    "Forza EVO Volley OUDENAARDE U17 jongens": "FEVO U17 J",
+    "Forza EVO Volley OUDENAARDE U11 A meisjes": "FEVO U11A M",
+    "Forza EVO Volley OUDENAARDE U17 meisjes": "FEVO U17 M",
+    "Volley Team Zwijnaarde B": "VT Zwijnaarde B",
+    "VC Zandhoven U15 A meisjes": "Zandhoven U15A M"
+    # voeg meer als nodig
+}
+
+
 # ICS combineren
 combined_ics = ""
 for url in urls:
@@ -31,6 +46,14 @@ for url in urls:
     content = response.text
     body = content.replace("BEGIN:VCALENDAR", "").replace("END:VCALENDAR", "").strip()
     combined_ics += body + "\n"
+
+for long_name, short_name in team_name_replacements.items():
+    final_ics = final_ics.replace(long_name, short_name)
+    
+ 
+# Verwijder code vóór dubbelepunt in SUMMARY
+final_ics = re.sub(r'^SUMMARY:[^:]+: ?', 'SUMMARY: ', final_ics, flags=re.MULTILINE)
+
 
 final_ics = "BEGIN:VCALENDAR\nVERSION:2.0\n" + combined_ics + "END:VCALENDAR"
 
