@@ -2,6 +2,8 @@ import requests
 import urllib3
 import os
 import re
+import base64  
+import json
 
 # Configuratie
 GITHUB_USERNAME = os.environ.get("GITHUB_USERNAME")
