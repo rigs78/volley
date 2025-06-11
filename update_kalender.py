@@ -38,6 +38,24 @@ team_name_replacements = {
     # voeg meer als nodig
 }
 
+categorie_codes = {
+    "OMU17": "U17",
+    "OMU15": "U15",
+    "OMU13": "U13",
+    "OMU11": "U11",
+    "OMU19": "U19",
+    "OMU21": "U21"
+    # voeg eventueel meer toe
+}
+
+def vervang_summary_code(match):
+    full_code = match.group(1)  # bv. OMU17N2R1c-0001
+    teamline = match.group(2)   # rest van de summary
+    for prefix, label in categorie_codes.items():
+        if full_code.startswith(prefix):
+            return f"SUMMARY: {label} {teamline}"
+    return f"SUMMARY: {teamline}"  # fallback als geen match
+
 
 # ICS combineren
 combined_ics = ""
@@ -47,15 +65,18 @@ for url in urls:
     body = content.replace("BEGIN:VCALENDAR", "").replace("END:VCALENDAR", "").strip()
     combined_ics += body + "\n"
 
+final_ics = "BEGIN:VCALENDAR\nVERSION:2.0\n" + combined_ics + "END:VCALENDAR"
+
+
 for long_name, short_name in team_name_replacements.items():
     final_ics = final_ics.replace(long_name, short_name)
     
  
 # Verwijder code vóór dubbelepunt in SUMMARY
-final_ics = re.sub(r'^SUMMARY:[^:]+: ?', 'SUMMARY: ', final_ics, flags=re.MULTILINE)
+final_ics = re.sub(r'^SUMMARY:([A-Z0-9\-]+): ?(.*)$', vervang_summary_code, final_ics, flags=re.MULTILINE)
 
 
-final_ics = "BEGIN:VCALENDAR\nVERSION:2.0\n" + combined_ics + "END:VCALENDAR"
+
 
 # GitHub API upload
 api_url = f"https://api.github.com/repos/{GITHUB_USERNAME}/{REPO_NAME}/contents/{ICS_FILENAME}"
