@@ -28,6 +28,7 @@ urls = [
     "https://www.volleyscores.be/calendar/team/92352", #gent promo 3 F Victor
     "https://www.volleyscores.be/calendar/team/92410", #beker u17 Victor
     "https://www.volleyscores.be/calendar/team/92405", # beker promo F Victor
+    "https://rbfa-svc.bijnens.eu/api/GetTeamCalendar?code=rfbaKalender001&teamId=349355", # voetbal Ramon
     "https://www.volleyscores.be/calendar/team/93447" #michelbeke Ruben
 ]
 
@@ -55,6 +56,7 @@ def verwerk_ics(ics_inhoud):
         "OBJ15": "Beker J15",
         "OBJ19": "Beker J19",
         "OHP3B": "HP3",
+        "U15 B": "JAGO",
         "OJU17/19N1R1": "J19",
         "OJU15N2R1c": "J15",
         "LIGD": "LIGD"
@@ -135,4 +137,5 @@ else:
 #    file.write(final_ics)
 
 #print("✅ Gecombineerde kalender opgeslagen als 'gecombineerde_volley_kalender.ics'")
+
 
