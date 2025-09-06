@@ -24,7 +24,7 @@ urls = [
     "https://www.volleyscores.be/calendar/team/92655", #u15 beker Juul
     "https://www.volleyscores.be/calendar/team/92657", #forza promo 3 Briek
     "https://www.volleyscores.be/calendar/team/92656", #forza u19  Briek
-    "https://www.volleyscores.be/calendar/team/92658";  # beker promo F Briek 
+    "https://www.volleyscores.be/calendar/team/92658",  # beker promo F Briek 
     "https://www.volleyscores.be/calendar/team/92352", #gent promo 3 F Victor
     "https://www.volleyscores.be/calendar/team/92410", #beker u17 Victor
     "https://www.volleyscores.be/calendar/team/92405", # beker promo F Victor
@@ -137,5 +137,6 @@ else:
 #    file.write(final_ics)
 
 #print("✅ Gecombineerde kalender opgeslagen als 'gecombineerde_volley_kalender.ics'")
+
 
 
