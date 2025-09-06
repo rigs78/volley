@@ -83,7 +83,10 @@ def verwerk_ics(ics_inhoud):
     # Teamnaamverkortingen
     team_name_replacements = {
         "Forza Evo Volley OUDENAARDE": "FEVO",
-        "Vlavo Saturnus Michelbeke A": "Michelbeke"
+        "Vlavo Saturnus Michelbeke A": "Michelbeke",
+        "JAGO ST.-A'BERG": "JAGO",
+        "Caruur Volley GENT": "CARUUR"
+        
     }
 
     for lang, kort in team_name_replacements.items():
@@ -137,6 +140,7 @@ else:
 #    file.write(final_ics)
 
 #print("✅ Gecombineerde kalender opgeslagen als 'gecombineerde_volley_kalender.ics'")
+
 
 
 
