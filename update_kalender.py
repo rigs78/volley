@@ -42,6 +42,9 @@ for url in urls:
 
 final_ics = "BEGIN:VCALENDAR\nVERSION:2.0\n" + combined_ics + "END:VCALENDAR"
 
+final_ics.replace("SUMMARY:U15 B:", "SUMMARY:U15B:")
+final_ics.replace("SUMMARY:JU17/19N1R1", "SUMMARY:OJU19N1R1c")
+
 # ---------------------------
 # Functie: ICS inhoud bewerken
 # ---------------------------
@@ -56,7 +59,7 @@ def verwerk_ics(ics_inhoud):
         "OBJ15": "Beker J15",
         "OBJ19": "Beker J19",
         "OHP3B": "HP3",
-        "U15": "JAGO",
+        "U15B": "JAGO",
         "19N1R1": "J19",
         "OJU15N2R1c": "J15",
         "LIGD": "LIGD"
@@ -96,6 +99,8 @@ def verwerk_ics(ics_inhoud):
 
 
 # ICS-inhoud bewerken
+
+
 final_ics = verwerk_ics(final_ics)
 
 
@@ -140,6 +145,7 @@ else:
 #    file.write(final_ics)
 
 #print("✅ Gecombineerde kalender opgeslagen als 'gecombineerde_volley_kalender.ics'")
+
 
 
 
