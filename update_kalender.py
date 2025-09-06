@@ -16,11 +16,19 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # ICS-bronnen van VolleyScores
 urls = [
-    "https://www.volleyscores.be/calendar/team/92669", #u17a beker
-    "https://www.volleyscores.be/calendar/team/92662", #u15 beker
-    "https://www.volleyscores.be/calendar/team/92670", #u17 beker
-    "https://www.volleyscores.be/calendar/team/92665", #u15 beker
-    "https://www.volleyscores.be/calendar/team/93447" #michelbeke²
+    "https://www.volleyscores.be/calendar/team/92669", #u17a beker Renee
+    "https://www.volleyscores.be/calendar/team/92662", #u15 beker Anna
+    "https://www.volleyscores.be/calendar/team/92670", #u17 beker Renee
+    "https://www.volleyscores.be/calendar/team/92665", #u15 beker Anna
+    "https://www.volleyscores.be/calendar/team/92654", #u15  Juul
+    "https://www.volleyscores.be/calendar/team/92655", #u15 beker Juul
+    "https://www.volleyscores.be/calendar/team/92657", #forza promo 3 Briek
+    "https://www.volleyscores.be/calendar/team/92656", #forza u19  Briek
+    "https://www.volleyscores.be/calendar/team/92658";  # beker promo F Briek 
+    "https://www.volleyscores.be/calendar/team/92352", #gent promo 3 F Victor
+    "https://www.volleyscores.be/calendar/team/92410", #beker u17 Victor
+    "https://www.volleyscores.be/calendar/team/92405", # beker promo F Victor
+    "https://www.volleyscores.be/calendar/team/93447" #michelbeke Ruben
 ]
 
 # ICS combineren
@@ -44,6 +52,11 @@ def verwerk_ics(ics_inhoud):
         "OMU15N1R1c": "M15A",
         "OBM17": "Beker M17",
         "OBM15": "Beker M15",
+        "OBJ15": "Beker J15",
+        "OBJ19": "Beker J19",
+        "OHP3B": "HP3",
+        "OJU17/19N1R1": "J19",
+        "OJU15N2R1c": "J15",
         "LIGD": "LIGD"
     }
 
@@ -122,3 +135,4 @@ else:
 #    file.write(final_ics)
 
 #print("✅ Gecombineerde kalender opgeslagen als 'gecombineerde_volley_kalender.ics'")
+
