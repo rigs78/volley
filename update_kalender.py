@@ -56,7 +56,7 @@ def verwerk_ics(ics_inhoud):
         "OBJ15": "Beker J15",
         "OBJ19": "Beker J19",
         "OHP3B": "HP3",
-        "U15 B": "JAGO",
+        "U15": "JAGO",
         "OJU17/19N1R1": "J19",
         "OJU15N2R1c": "J15",
         "LIGD": "LIGD"
@@ -137,6 +137,7 @@ else:
 #    file.write(final_ics)
 
 #print("✅ Gecombineerde kalender opgeslagen als 'gecombineerde_volley_kalender.ics'")
+
 
 
 
