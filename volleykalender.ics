@@ -30,16 +30,16 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART:20250913T133000Z
 DTEND:20250913T150000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:473606
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OMU17N2R1c-0001: Metanous Navok Ladies NAZARETH B - Forza 
 	Evo Volley OUDENAARDE A\n\nLocatie: Nazareth, Gemeentelijke Sporthal A
-	\nDrapstraat 76, 9810 Nazareth\n\nLaatste update: 21/12/2025 16:29\n\n
+	\nDrapstraat 76, 9810 Nazareth\n\nLaatste update: 22/12/2025 04:49\n\n
 	De wedstrijd info wordt minstens 1x per dag geupdate. Dus als de updat
 	e datum niet recent is, dan kan het zijn dat je niet de laatste inform
 	atie hebt. Dit ligt typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Nazareth, Gemeentelijke Sporthal A, Drapstraat 76, 9810 Nazar
 	eth Belgie
 SEQUENCE:0
@@ -50,16 +50,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250920T110000Z
 DTEND:20250920T123000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:473610
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OMU17N2R1c-0005: FEVO A - Vlavo VLA
 	AMSE ARDENNEN B (+)\n\nLocatie: Leupegem, 't Sportkot\nSompelplein 39B
-	, 9700 Leupegem\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd in
+	, 9700 Leupegem\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd in
 	fo wordt minstens 1x per dag geupdate. Dus als de update datum niet re
 	cent is, dan kan het zijn dat je niet de laatste informatie hebt. Dit 
 	ligt typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Leupegem, 't Sportkot, Sompelplein 39B, 9700 Leupegem Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -69,16 +69,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250927T110000Z
 DTEND:20250927T123000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:473612
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OMU17N2R1c-0007: FEVO A - Lindemans
 	 AALST\n\nLocatie: Leupegem, 't Sportkot\nSompelplein 39B, 9700 Leupeg
-	em\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info wordt mins
+	em\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info wordt mins
 	tens 1x per dag geupdate. Dus als de update datum niet recent is, dan 
 	kan het zijn dat je niet de laatste informatie hebt. Dit ligt typisch 
 	aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Leupegem, 't Sportkot, Sompelplein 39B, 9700 Leupegem Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -88,16 +88,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251011T170000Z
 DTEND:20251011T183000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:473615
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OMU17N2R1c-0010: SSJ HEMELVEERDEGEM (+) - Forza Evo Volley
 	 OUDENAARDE A\n\nLocatie: Lierde, Sporthal De Zandloper\nNieuwstraat 2
-	3, 9570 Lierde\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd inf
+	3, 9570 Lierde\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd inf
 	o wordt minstens 1x per dag geupdate. Dus als de update datum niet rec
 	ent is, dan kan het zijn dat je niet de laatste informatie hebt. Dit l
 	igt typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Lierde, Sporthal De Zandloper, Nieuwstraat 23, 9570 Lierde Be
 	lgie
 SEQUENCE:0
@@ -108,16 +108,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251018T131500Z
 DTEND:20251018T144500Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:473619
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OMU17N2R1c-0014: VC Hebo BORSBEKE-HERZELE B - Forza Evo Vo
 	lley OUDENAARDE A\n\nLocatie: Herzele, Sporthal De Steenoven\nKerkkout
-	er 40, 9550 Herzele\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrij
+	er 40, 9550 Herzele\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrij
 	d info wordt minstens 1x per dag geupdate. Dus als de update datum nie
 	t recent is, dan kan het zijn dat je niet de laatste informatie hebt. 
 	Dit ligt typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Herzele, Sporthal De Steenoven, Kerkkouter 40, 9550 Herzele B
 	elgie
 SEQUENCE:0
@@ -128,16 +128,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251116T083000Z
 DTEND:20251116T100000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:473621
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OMU17N2R1c-0016: FEVO A - Metanous 
 	Navok Ladies NAZARETH B\n\nLocatie: Leupegem, 't Sportkot\nSompelplein
-	 39B, 9700 Leupegem\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrij
+	 39B, 9700 Leupegem\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrij
 	d info wordt minstens 1x per dag geupdate. Dus als de update datum nie
 	t recent is, dan kan het zijn dat je niet de laatste informatie hebt. 
 	Dit ligt typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Leupegem, 't Sportkot, Sompelplein 39B, 9700 Leupegem Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -147,16 +147,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T163000Z
 DTEND:20251025T180000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:473625
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OMU17N2R1c-0020: Vlavo VLAAMSE ARDENNEN B (+) - Forza Evo 
 	Volley OUDENAARDE A\n\nLocatie: Zottegem, Bevegemse Vijvers\nBevegemse
-	vijvers 1, 9620 Zottegem\n\nLaatste update: 21/12/2025 16:29\n\nDe wed
+	vijvers 1, 9620 Zottegem\n\nLaatste update: 22/12/2025 04:49\n\nDe wed
 	strijd info wordt minstens 1x per dag geupdate. Dus als de update datu
 	m niet recent is, dan kan het zijn dat je niet de laatste informatie h
 	ebt. Dit ligt typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Zottegem, Bevegemse Vijvers, Bevegemsevijvers 1, 9620 Zottege
 	m Belgie
 SEQUENCE:0
@@ -167,16 +167,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251122T153000Z
 DTEND:20251122T170000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:473627
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OMU17N2R1c-0022: Lindemans AALST - Forza Evo Volley OUDENA
 	ARDE A\n\nLocatie: Moorsel, Sporthal Faluintjes\nBeugemstraat , 9310 M
-	oorsel\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info wordt 
+	oorsel\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info wordt 
 	minstens 1x per dag geupdate. Dus als de update datum niet recent is, 
 	dan kan het zijn dat je niet de laatste informatie hebt. Dit ligt typi
 	sch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Moorsel, Sporthal Faluintjes, Beugemstraat, 9310 Moorsel Belg
 	ie
 SEQUENCE:0
@@ -187,16 +187,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251129T120000Z
 DTEND:20251129T133000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:473630
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OMU17N2R1c-0025: FEVO A - SSJ HEMEL
 	VEERDEGEM (+)\n\nLocatie: Leupegem, 't Sportkot\nSompelplein 39B, 9700
-	 Leupegem\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info wor
+	 Leupegem\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info wor
 	dt minstens 1x per dag geupdate. Dus als de update datum niet recent i
 	s, dan kan het zijn dat je niet de laatste informatie hebt. Dit ligt t
 	ypisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Leupegem, 't Sportkot, Sompelplein 39B, 9700 Leupegem Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -206,16 +206,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251206T123000Z
 DTEND:20251206T140000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:473634
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OMU17N2R1c-0029: FEVO A - VC Hebo B
 	ORSBEKE-HERZELE B\n\nLocatie: Leupegem, 't Sportkot\nSompelplein 39B, 
-	9700 Leupegem\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info
+	9700 Leupegem\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info
 	 wordt minstens 1x per dag geupdate. Dus als de update datum niet rece
 	nt is, dan kan het zijn dat je niet de laatste informatie hebt. Dit li
 	gt typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Leupegem, 't Sportkot, Sompelplein 39B, 9700 Leupegem Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -252,16 +252,16 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART:20250920T113000Z
 DTEND:20250920T130000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:473867
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OMU15N1R1c-0002: CSS Outdoor Living Mevoc MEERBEKE A - For
 	za Evo Volley OUDENAARDE\n\nLocatie: Ninove, Sporthal  t Sportstekske\
-	nParklaan 15, 9400 Ninove\n\nLaatste update: 21/12/2025 16:29\n\nDe we
+	nParklaan 15, 9400 Ninove\n\nLaatste update: 22/12/2025 04:49\n\nDe we
 	dstrijd info wordt minstens 1x per dag geupdate. Dus als de update dat
 	um niet recent is, dan kan het zijn dat je niet de laatste informatie 
 	hebt. Dit ligt typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Ninove, Sporthal  t Sportstekske, Parklaan 15, 9400 Ninove Be
 	lgie
 SEQUENCE:0
@@ -272,16 +272,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250927T110000Z
 DTEND:20250927T123000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:473868
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OMU15N1R1c-0003: FEVO - Damesvolley
 	 Dok Noord GENT B\n\nLocatie: Leupegem, 't Sportkot\nSompelplein 39B, 
-	9700 Leupegem\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info
+	9700 Leupegem\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info
 	 wordt minstens 1x per dag geupdate. Dus als de update datum niet rece
 	nt is, dan kan het zijn dat je niet de laatste informatie hebt. Dit li
 	gt typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Leupegem, 't Sportkot, Sompelplein 39B, 9700 Leupegem Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -291,16 +291,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250913T110000Z
 DTEND:20250913T123000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:473870
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OMU15N1R1c-0005: FEVO -  Vlavo VLAA
 	MSE ARDENNEN\n\nLocatie: Leupegem, 't Sportkot\nSompelplein 39B, 9700 
-	Leupegem\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info word
+	Leupegem\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info word
 	t minstens 1x per dag geupdate. Dus als de update datum niet recent is
 	, dan kan het zijn dat je niet de laatste informatie hebt. Dit ligt ty
 	pisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Leupegem, 't Sportkot, Sompelplein 39B, 9700 Leupegem Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -310,16 +310,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T110000Z
 DTEND:20251025T123000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:473873
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OMU15N1R1c-0008: FEVO - CSS Outdoor
 	 Living Mevoc MEERBEKE A\n\nLocatie: Leupegem, 't Sportkot\nSompelplei
-	n 39B, 9700 Leupegem\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstri
+	n 39B, 9700 Leupegem\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstri
 	jd info wordt minstens 1x per dag geupdate. Dus als de update datum ni
 	et recent is, dan kan het zijn dat je niet de laatste informatie hebt.
 	 Dit ligt typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Leupegem, 't Sportkot, Sompelplein 39B, 9700 Leupegem Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -329,16 +329,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251018T093000Z
 DTEND:20251018T110000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:473874
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OMU15N1R1c-0009: Damesvolley Dok Noord GENT B - Forza Evo 
 	Volley OUDENAARDE\n\nLocatie: Oostakker, Edugo Arena\nSint-Jozefstraat
-	 16, 9041 Oostakker\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrij
+	 16, 9041 Oostakker\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrij
 	d info wordt minstens 1x per dag geupdate. Dus als de update datum nie
 	t recent is, dan kan het zijn dat je niet de laatste informatie hebt. 
 	Dit ligt typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Oostakker, Edugo Arena, Sint-Jozefstraat 16, 9041 Oostakker B
 	elgie
 SEQUENCE:0
@@ -349,16 +349,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251011T133000Z
 DTEND:20251011T150000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:473876
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OMU15N1R1c-0011:  Vlavo VLAAMSE ARDENNEN - Forza Evo Volle
 	y OUDENAARDE\n\nLocatie: Zottegem, Bevegemse Vijvers\nBevegemsevijvers
-	 1, 9620 Zottegem\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd 
+	 1, 9620 Zottegem\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd 
 	info wordt minstens 1x per dag geupdate. Dus als de update datum niet 
 	recent is, dan kan het zijn dat je niet de laatste informatie hebt. Di
 	t ligt typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Zottegem, Bevegemse Vijvers, Bevegemsevijvers 1, 9620 Zottege
 	m Belgie
 SEQUENCE:0
@@ -369,16 +369,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251115T123000Z
 DTEND:20251115T140000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:473879
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OMU15N1R1c-0014: CSS Outdoor Living Mevoc MEERBEKE A - For
 	za Evo Volley OUDENAARDE\n\nLocatie: Ninove, Sporthal  t Sportstekske\
-	nParklaan 15, 9400 Ninove\n\nLaatste update: 21/12/2025 16:29\n\nDe we
+	nParklaan 15, 9400 Ninove\n\nLaatste update: 22/12/2025 04:49\n\nDe we
 	dstrijd info wordt minstens 1x per dag geupdate. Dus als de update dat
 	um niet recent is, dan kan het zijn dat je niet de laatste informatie 
 	hebt. Dit ligt typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Ninove, Sporthal  t Sportstekske, Parklaan 15, 9400 Ninove Be
 	lgie
 SEQUENCE:0
@@ -389,16 +389,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251123T130000Z
 DTEND:20251123T143000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:473880
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OMU15N1R1c-0015: FEVO - Damesvolley
 	 Dok Noord GENT B\n\nLocatie: Leupegem, 't Sportkot\nSompelplein 39B, 
-	9700 Leupegem\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info
+	9700 Leupegem\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info
 	 wordt minstens 1x per dag geupdate. Dus als de update datum niet rece
 	nt is, dan kan het zijn dat je niet de laatste informatie hebt. Dit li
 	gt typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Leupegem, 't Sportkot, Sompelplein 39B, 9700 Leupegem Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -408,16 +408,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251129T120000Z
 DTEND:20251129T133000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:473882
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OMU15N1R1c-0017: FEVO -  Vlavo VLAA
 	MSE ARDENNEN\n\nLocatie: Leupegem, 't Sportkot\nSompelplein 39B, 9700 
-	Leupegem\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info word
+	Leupegem\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info word
 	t minstens 1x per dag geupdate. Dus als de update datum niet recent is
 	, dan kan het zijn dat je niet de laatste informatie hebt. Dit ligt ty
 	pisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Leupegem, 't Sportkot, Sompelplein 39B, 9700 Leupegem Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -454,16 +454,16 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART:20251004T143000Z
 DTEND:20251004T160000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:465090
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OBM17-0014: VC LOCHRISTI-WACHTEBEKE - Forza Evo Volley OUD
 	ENAARDE\n\nLocatie: Zaffelare, Sporthal 't Veerleveld\nK.P.Triestlaan 
-	1, 9080 Zaffelare\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd 
+	1, 9080 Zaffelare\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd 
 	info wordt minstens 1x per dag geupdate. Dus als de update datum niet 
 	recent is, dan kan het zijn dat je niet de laatste informatie hebt. Di
 	t ligt typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Zaffelare, Sporthal 't Veerleveld, K.P.Triestlaan 1, 9080 Zaf
 	felare Belgie
 SEQUENCE:0
@@ -501,16 +501,16 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART:20251004T163000Z
 DTEND:20251004T180000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:465119
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OBM15-0012: Jevo MALDEGEM - FEVO\n\
 	nLocatie: Maldegem, Sporthal Meos\nBloemestraat 36D, 9990 Maldegem\n\n
-	Laatste update: 21/12/2025 16:29\n\nDe wedstrijd info wordt minstens 1
+	Laatste update: 22/12/2025 04:49\n\nDe wedstrijd info wordt minstens 1
 	x per dag geupdate. Dus als de update datum niet recent is, dan kan he
 	t zijn dat je niet de laatste informatie hebt. Dit ligt typisch aan in
 	stellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Maldegem, Sporthal Meos, Bloemestraat 36D, 9990 Maldegem Belg
 	ie
 SEQUENCE:0
@@ -521,16 +521,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251109T100000Z
 DTEND:20251109T113000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:465135
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OBM15-0028: FEVO - Tent-Events Eevo
 	c ERTVELDE-EVERGEM\n\nLocatie: Leupegem, 't Sportkot\nSompelplein 39B,
-	 9700 Leupegem\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd inf
+	 9700 Leupegem\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd inf
 	o wordt minstens 1x per dag geupdate. Dus als de update datum niet rec
 	ent is, dan kan het zijn dat je niet de laatste informatie hebt. Dit l
 	igt typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Leupegem, 't Sportkot, Sompelplein 39B, 9700 Leupegem Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -540,16 +540,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251221T150000Z
 DTEND:20251221T163000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:465140
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OBM15-0033: FEVO - Damesvolley Dok 
 	Noord GENT A\n\nLocatie: Leupegem, 't Sportkot\nSompelplein 39B, 9700 
-	Leupegem\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info word
+	Leupegem\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info word
 	t minstens 1x per dag geupdate. Dus als de update datum niet recent is
 	, dan kan het zijn dat je niet de laatste informatie hebt. Dit ligt ty
 	pisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Leupegem, 't Sportkot, Sompelplein 39B, 9700 Leupegem Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -586,16 +586,16 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART:20250913T103000Z
 DTEND:20250913T120000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:473537
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OJU15N2R1c-0002: SSJ HEMELVEERDEGEM (+) - Forza Evo Volley
 	 OUDENAARDE\n\nLocatie: Lierde, Sporthal De Zandloper\nNieuwstraat 23,
-	 9570 Lierde\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info 
+	 9570 Lierde\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info 
 	wordt minstens 1x per dag geupdate. Dus als de update datum niet recen
 	t is, dan kan het zijn dat je niet de laatste informatie hebt. Dit lig
 	t typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Lierde, Sporthal De Zandloper, Nieuwstraat 23, 9570 Lierde Be
 	lgie
 SEQUENCE:0
@@ -606,16 +606,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250921T110000Z
 DTEND:20250921T123000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:473539
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OJU15N2R1c-0004: FEVO - VC Hebo BOR
 	SBEKE-HERZELE (+)\n\nLocatie: Leupegem, 't Sportkot\nSompelplein 39B, 
-	9700 Leupegem\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info
+	9700 Leupegem\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info
 	 wordt minstens 1x per dag geupdate. Dus als de update datum niet rece
 	nt is, dan kan het zijn dat je niet de laatste informatie hebt. Dit li
 	gt typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Leupegem, 't Sportkot, Sompelplein 39B, 9700 Leupegem Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -625,16 +625,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250928T120000Z
 DTEND:20250928T133000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:473540
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OJU15N2R1c-0005: Lindemans AALST (+) - Forza Evo Volley OU
 	DENAARDE\n\nLocatie: Moorsel, Sporthal Faluintjes\nBeugemstraat , 9310
-	 Moorsel\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info word
+	 Moorsel\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info word
 	t minstens 1x per dag geupdate. Dus als de update datum niet recent is
 	, dan kan het zijn dat je niet de laatste informatie hebt. Dit ligt ty
 	pisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Moorsel, Sporthal Faluintjes, Beugemstraat, 9310 Moorsel Belg
 	ie
 SEQUENCE:0
@@ -645,16 +645,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251012T110000Z
 DTEND:20251012T123000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:473543
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OJU15N2R1c-0008: FEVO - Griffoenen 
 	STEENHUIZE (+)\n\nLocatie: Leupegem, 't Sportkot\nSompelplein 39B, 970
-	0 Leupegem\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info wo
+	0 Leupegem\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info wo
 	rdt minstens 1x per dag geupdate. Dus als de update datum niet recent 
 	is, dan kan het zijn dat je niet de laatste informatie hebt. Dit ligt 
 	typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Leupegem, 't Sportkot, Sompelplein 39B, 9700 Leupegem Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -664,16 +664,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251116T143000Z
 DTEND:20251116T160000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:473547
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OJU15N2R1c-0012: FEVO - SSJ HEMELVE
 	ERDEGEM (+)\n\nLocatie: Leupegem, 't Sportkot\nSompelplein 39B, 9700 L
-	eupegem\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info wordt
+	eupegem\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info wordt
 	 minstens 1x per dag geupdate. Dus als de update datum niet recent is,
 	 dan kan het zijn dat je niet de laatste informatie hebt. Dit ligt typ
 	isch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Leupegem, 't Sportkot, Sompelplein 39B, 9700 Leupegem Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -683,16 +683,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T131500Z
 DTEND:20251025T144500Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:473549
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OJU15N2R1c-0014: VC Hebo BORSBEKE-HERZELE (+) - Forza Evo 
 	Volley OUDENAARDE\n\nLocatie: Herzele, Sporthal De Steenoven\nKerkkout
-	er 40, 9550 Herzele\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrij
+	er 40, 9550 Herzele\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrij
 	d info wordt minstens 1x per dag geupdate. Dus als de update datum nie
 	t recent is, dan kan het zijn dat je niet de laatste informatie hebt. 
 	Dit ligt typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Herzele, Sporthal De Steenoven, Kerkkouter 40, 9550 Herzele B
 	elgie
 SEQUENCE:0
@@ -703,16 +703,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251123T080000Z
 DTEND:20251123T093000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:473550
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OJU15N2R1c-0015: FEVO - Lindemans A
 	ALST (+)\n\nLocatie: Leupegem, 't Sportkot\nSompelplein 39B, 9700 Leup
-	egem\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info wordt mi
+	egem\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info wordt mi
 	nstens 1x per dag geupdate. Dus als de update datum niet recent is, da
 	n kan het zijn dat je niet de laatste informatie hebt. Dit ligt typisc
 	h aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Leupegem, 't Sportkot, Sompelplein 39B, 9700 Leupegem Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -722,16 +722,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251129T153000Z
 DTEND:20251129T170000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:473553
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OJU15N2R1c-0018: Griffoenen STEENHUIZE (+) - Forza Evo Vol
 	ley OUDENAARDE\n\nLocatie: Steenhuize, Sporthal Amalrik\nHolmanstraat 
-	37b, 9550 Steenhuize-Wijnhuize\n\nLaatste update: 21/12/2025 16:29\n\n
+	37b, 9550 Steenhuize-Wijnhuize\n\nLaatste update: 22/12/2025 04:49\n\n
 	De wedstrijd info wordt minstens 1x per dag geupdate. Dus als de updat
 	e datum niet recent is, dan kan het zijn dat je niet de laatste inform
 	atie hebt. Dit ligt typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Steenhuize, Sporthal Amalrik, Holmanstraat 37b, 9550 Steenhui
 	ze-Wijnhuize Belgie
 SEQUENCE:0
@@ -769,16 +769,16 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART:20251108T120000Z
 DTEND:20251108T133000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:465017
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OBJ15-0006: FEVO - Dakwerken De Vos
 	 DENDERHOUTEM\n\nLocatie: Leupegem, 't Sportkot\nSompelplein 39B, 9700
-	 Leupegem\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info wor
+	 Leupegem\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info wor
 	dt minstens 1x per dag geupdate. Dus als de update datum niet recent i
 	s, dan kan het zijn dat je niet de laatste informatie hebt. Dit ligt t
 	ypisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Leupegem, 't Sportkot, Sompelplein 39B, 9700 Leupegem Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -815,16 +815,16 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART:20250920T183000Z
 DTEND:20250920T200000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:472367
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OHP3B-0001: FEVO B - VC Hebo BORSBE
 	KE-HERZELE\n\nLocatie: Leupegem, 't Sportkot\nSompelplein 39B, 9700 Le
-	upegem\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info wordt 
+	upegem\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info wordt 
 	minstens 1x per dag geupdate. Dus als de update datum niet recent is, 
 	dan kan het zijn dat je niet de laatste informatie hebt. Dit ligt typi
 	sch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Leupegem, 't Sportkot, Sompelplein 39B, 9700 Leupegem Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -834,16 +834,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250913T180000Z
 DTEND:20250913T193000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:472374
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OHP3B-0008: Dakwerken De Vos DENDERHOUTEM C - Forza Evo Vo
 	lley OUDENAARDE B\n\nLocatie: Denderhoutem, Gem. Sporthal\nPastorijweg
-	 23, 9450 Denderhoutem\n\nLaatste update: 21/12/2025 16:29\n\nDe wedst
+	 23, 9450 Denderhoutem\n\nLaatste update: 22/12/2025 04:49\n\nDe wedst
 	rijd info wordt minstens 1x per dag geupdate. Dus als de update datum 
 	niet recent is, dan kan het zijn dat je niet de laatste informatie heb
 	t. Dit ligt typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Denderhoutem, Gem. Sporthal, Pastorijweg 23, 9450 Denderhoute
 	m Belgie
 SEQUENCE:0
@@ -854,16 +854,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250927T143000Z
 DTEND:20250927T160000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:472378
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OHP3B-0012: VC KALKEN B - FEVO B\n\
 	nLocatie: Laarne, Sporthal Laarne\nLeeweg 26, 9270 Laarne\n\nLaatste u
-	pdate: 21/12/2025 16:29\n\nDe wedstrijd info wordt minstens 1x per dag
+	pdate: 22/12/2025 04:49\n\nDe wedstrijd info wordt minstens 1x per dag
 	 geupdate. Dus als de update datum niet recent is, dan kan het zijn da
 	t je niet de laatste informatie hebt. Dit ligt typisch aan instellinge
 	n op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Laarne, Sporthal Laarne, Leeweg 26, 9270 Laarne Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -873,16 +873,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251011T183000Z
 DTEND:20251011T200000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:472379
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OHP3B-0013: FEVO B - Caruur Volley 
 	GENT F\n\nLocatie: Leupegem, 't Sportkot\nSompelplein 39B, 9700 Leupeg
-	em\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info wordt mins
+	em\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info wordt mins
 	tens 1x per dag geupdate. Dus als de update datum niet recent is, dan 
 	kan het zijn dat je niet de laatste informatie hebt. Dit ligt typisch 
 	aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Leupegem, 't Sportkot, Sompelplein 39B, 9700 Leupegem Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -892,16 +892,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251018T160000Z
 DTEND:20251018T173000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:472385
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OHP3B-0019:  Vlavo VLAAMSE ARDENNEN - Forza Evo Volley OUD
 	ENAARDE B\n\nLocatie: Michelbeke, Sporthal Averbo\nRiedeplein 15B, 966
-	0 Michelbeke\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info 
+	0 Michelbeke\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info 
 	wordt minstens 1x per dag geupdate. Dus als de update datum niet recen
 	t is, dan kan het zijn dat je niet de laatste informatie hebt. Dit lig
 	t typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Michelbeke, Sporthal Averbo, Riedeplein 15B, 9660 Michelbeke 
 	Belgie
 SEQUENCE:0
@@ -912,16 +912,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T183000Z
 DTEND:20251025T200000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:472387
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OHP3B-0021: FEVO B - VC Kuros ZULTE
 	\n\nLocatie: Leupegem, 't Sportkot\nSompelplein 39B, 9700 Leupegem\n\n
-	Laatste update: 21/12/2025 16:29\n\nDe wedstrijd info wordt minstens 1
+	Laatste update: 22/12/2025 04:49\n\nDe wedstrijd info wordt minstens 1
 	x per dag geupdate. Dus als de update datum niet recent is, dan kan he
 	t zijn dat je niet de laatste informatie hebt. Dit ligt typisch aan in
 	stellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Leupegem, 't Sportkot, Sompelplein 39B, 9700 Leupegem Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -931,16 +931,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251115T190000Z
 DTEND:20251115T203000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:472392
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OHP3B-0026: Sferos VBK DEINZE B - Forza Evo Volley OUDENAA
 	RDE B\n\nLocatie: Deinze, Sporthal Palaestra\nKastanjelaan 55, 9800 De
-	inze\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info wordt mi
+	inze\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info wordt mi
 	nstens 1x per dag geupdate. Dus als de update datum niet recent is, da
 	n kan het zijn dat je niet de laatste informatie hebt. Dit ligt typisc
 	h aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Deinze, Sporthal Palaestra, Kastanjelaan 55, 9800 Deinze Belg
 	ie
 SEQUENCE:0
@@ -951,16 +951,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251122T193000Z
 DTEND:20251122T210000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:472395
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OHP3B-0029: VC Hebo BORSBEKE-HERZELE - Forza Evo Volley OU
 	DENAARDE B\n\nLocatie: Herzele, Sporthal De Steenoven\nKerkkouter 40, 
-	9550 Herzele\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info 
+	9550 Herzele\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info 
 	wordt minstens 1x per dag geupdate. Dus als de update datum niet recen
 	t is, dan kan het zijn dat je niet de laatste informatie hebt. Dit lig
 	t typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Herzele, Sporthal De Steenoven, Kerkkouter 40, 9550 Herzele B
 	elgie
 SEQUENCE:0
@@ -971,16 +971,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251130T170000Z
 DTEND:20251130T183000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:472399
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OHP3B-0033: FEVO B - Dakwerken De V
 	os DENDERHOUTEM C\n\nLocatie: Leupegem, 't Sportkot\nSompelplein 39B, 
-	9700 Leupegem\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info
+	9700 Leupegem\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info
 	 wordt minstens 1x per dag geupdate. Dus als de update datum niet rece
 	nt is, dan kan het zijn dat je niet de laatste informatie hebt. Dit li
 	gt typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Leupegem, 't Sportkot, Sompelplein 39B, 9700 Leupegem Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -990,16 +990,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251207T170000Z
 DTEND:20251207T183000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:472403
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OHP3B-0037: FEVO B - VC KALKEN B\n\
 	nLocatie: Leupegem, 't Sportkot\nSompelplein 39B, 9700 Leupegem\n\nLaa
-	tste update: 21/12/2025 16:29\n\nDe wedstrijd info wordt minstens 1x p
+	tste update: 22/12/2025 04:49\n\nDe wedstrijd info wordt minstens 1x p
 	er dag geupdate. Dus als de update datum niet recent is, dan kan het z
 	ijn dat je niet de laatste informatie hebt. Dit ligt typisch aan inste
 	llingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Leupegem, 't Sportkot, Sompelplein 39B, 9700 Leupegem Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -1009,16 +1009,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251214T170000Z
 DTEND:20251214T183000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:472407
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OHP3B-0041: CARUUR F - Forza Evo Volley OUDENA
 	ARDE B\n\nLocatie: Oostakker, Edugo Arena\nSint-Jozefstraat 16, 9041 O
-	ostakker\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info word
+	ostakker\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info word
 	t minstens 1x per dag geupdate. Dus als de update datum niet recent is
 	, dan kan het zijn dat je niet de laatste informatie hebt. Dit ligt ty
 	pisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Oostakker, Edugo Arena, Sint-Jozefstraat 16, 9041 Oostakker B
 	elgie
 SEQUENCE:0
@@ -1029,16 +1029,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260110T143000Z
 DTEND:20260110T160000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:472411
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OHP3B-0045: FEVO B -  Vlavo VLAAMSE
 	 ARDENNEN\n\nLocatie: Leupegem, 't Sportkot\nSompelplein 39B, 9700 Leu
-	pegem\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info wordt m
+	pegem\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info wordt m
 	instens 1x per dag geupdate. Dus als de update datum niet recent is, d
 	an kan het zijn dat je niet de laatste informatie hebt. Dit ligt typis
 	ch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Leupegem, 't Sportkot, Sompelplein 39B, 9700 Leupegem Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -1048,16 +1048,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260117T190000Z
 DTEND:20260117T203000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:472418
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OHP3B-0052: VC Kuros ZULTE - FEVO B
 	\n\nLocatie: Zulte, Gemeentelijke Sporthal\nWaalstraat 118, 9870 Zulte
-	\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info wordt minste
+	\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info wordt minste
 	ns 1x per dag geupdate. Dus als de update datum niet recent is, dan ka
 	n het zijn dat je niet de laatste informatie hebt. Dit ligt typisch aa
 	n instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Zulte, Gemeentelijke Sporthal, Waalstraat 118, 9870 Zulte Bel
 	gie
 SEQUENCE:0
@@ -1068,16 +1068,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251220T153000Z
 DTEND:20251220T170000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:472419
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OHP3B-0053: FEVO B - Sferos VBK DEI
 	NZE B\n\nLocatie: Leupegem, 't Sportkot\nSompelplein 39B, 9700 Leupege
-	m\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info wordt minst
+	m\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info wordt minst
 	ens 1x per dag geupdate. Dus als de update datum niet recent is, dan k
 	an het zijn dat je niet de laatste informatie hebt. Dit ligt typisch a
 	an instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Leupegem, 't Sportkot, Sompelplein 39B, 9700 Leupegem Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -1087,16 +1087,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260321T143000Z
 DTEND:20260321T160000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:472423
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OHP3B-0057: FEVO B - VC Hebo BORSBE
 	KE-HERZELE\n\nLocatie: Leupegem, 't Sportkot\nSompelplein 39B, 9700 Le
-	upegem\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info wordt 
+	upegem\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info wordt 
 	minstens 1x per dag geupdate. Dus als de update datum niet recent is, 
 	dan kan het zijn dat je niet de laatste informatie hebt. Dit ligt typi
 	sch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Leupegem, 't Sportkot, Sompelplein 39B, 9700 Leupegem Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -1106,16 +1106,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260328T190000Z
 DTEND:20260328T203000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:472430
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OHP3B-0064: Dakwerken De Vos DENDERHOUTEM C - Forza Evo Vo
 	lley OUDENAARDE B\n\nLocatie: Denderhoutem, Gem. Sporthal\nPastorijweg
-	 23, 9450 Denderhoutem\n\nLaatste update: 21/12/2025 16:29\n\nDe wedst
+	 23, 9450 Denderhoutem\n\nLaatste update: 22/12/2025 04:49\n\nDe wedst
 	rijd info wordt minstens 1x per dag geupdate. Dus als de update datum 
 	niet recent is, dan kan het zijn dat je niet de laatste informatie heb
 	t. Dit ligt typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Denderhoutem, Gem. Sporthal, Pastorijweg 23, 9450 Denderhoute
 	m Belgie
 SEQUENCE:0
@@ -1126,16 +1126,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260418T143000Z
 DTEND:20260418T160000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:472434
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OHP3B-0068: VC KALKEN B - FEVO B\n\
 	nLocatie: Laarne, Sporthal Laarne\nLeeweg 26, 9270 Laarne\n\nLaatste u
-	pdate: 21/12/2025 16:29\n\nDe wedstrijd info wordt minstens 1x per dag
+	pdate: 22/12/2025 04:49\n\nDe wedstrijd info wordt minstens 1x per dag
 	 geupdate. Dus als de update datum niet recent is, dan kan het zijn da
 	t je niet de laatste informatie hebt. Dit ligt typisch aan instellinge
 	n op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Laarne, Sporthal Laarne, Leeweg 26, 9270 Laarne Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -1145,16 +1145,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260207T143000Z
 DTEND:20260207T160000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:472435
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OHP3B-0069: FEVO B - Caruur Volley 
 	GENT F\n\nLocatie: Leupegem, 't Sportkot\nSompelplein 39B, 9700 Leupeg
-	em\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info wordt mins
+	em\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info wordt mins
 	tens 1x per dag geupdate. Dus als de update datum niet recent is, dan 
 	kan het zijn dat je niet de laatste informatie hebt. Dit ligt typisch 
 	aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Leupegem, 't Sportkot, Sompelplein 39B, 9700 Leupegem Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -1164,16 +1164,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260221T170000Z
 DTEND:20260221T183000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:472441
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OHP3B-0075:  Vlavo VLAAMSE ARDENNEN - Forza Evo Volley OUD
 	ENAARDE B\n\nLocatie: Michelbeke, Sporthal Averbo\nRiedeplein 15B, 966
-	0 Michelbeke\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info 
+	0 Michelbeke\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info 
 	wordt minstens 1x per dag geupdate. Dus als de update datum niet recen
 	t is, dan kan het zijn dat je niet de laatste informatie hebt. Dit lig
 	t typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Michelbeke, Sporthal Averbo, Riedeplein 15B, 9660 Michelbeke 
 	Belgie
 SEQUENCE:0
@@ -1184,16 +1184,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260301T133000Z
 DTEND:20260301T150000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:472443
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OHP3B-0077: FEVO B - VC Kuros ZULTE
 	\n\nLocatie: Leupegem, 't Sportkot\nSompelplein 39B, 9700 Leupegem\n\n
-	Laatste update: 21/12/2025 16:29\n\nDe wedstrijd info wordt minstens 1
+	Laatste update: 22/12/2025 04:49\n\nDe wedstrijd info wordt minstens 1
 	x per dag geupdate. Dus als de update datum niet recent is, dan kan he
 	t zijn dat je niet de laatste informatie hebt. Dit ligt typisch aan in
 	stellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Leupegem, 't Sportkot, Sompelplein 39B, 9700 Leupegem Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -1203,16 +1203,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260307T190000Z
 DTEND:20260307T203000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:472448
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OHP3B-0082: Sferos VBK DEINZE B - Forza Evo Volley OUDENAA
 	RDE B\n\nLocatie: Deinze, Sporthal Palaestra\nKastanjelaan 55, 9800 De
-	inze\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info wordt mi
+	inze\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info wordt mi
 	nstens 1x per dag geupdate. Dus als de update datum niet recent is, da
 	n kan het zijn dat je niet de laatste informatie hebt. Dit ligt typisc
 	h aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Deinze, Sporthal Palaestra, Kastanjelaan 55, 9800 Deinze Belg
 	ie
 SEQUENCE:0
@@ -1250,16 +1250,16 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART:20250914T113000Z
 DTEND:20250914T130000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:473904
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OJU17/19N1R1-0021: CARUUR A (S) - Forza Evo Vo
 	lley OUDENAARDE (J)\n\nLocatie: Oostakker, Edugo Arena\nSint-Jozefstra
-	at 16, 9041 Oostakker\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstr
+	at 16, 9041 Oostakker\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstr
 	ijd info wordt minstens 1x per dag geupdate. Dus als de update datum n
 	iet recent is, dan kan het zijn dat je niet de laatste informatie hebt
 	. Dit ligt typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Oostakker, Edugo Arena, Sint-Jozefstraat 16, 9041 Oostakker B
 	elgie
 SEQUENCE:0
@@ -1270,16 +1270,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250921T080000Z
 DTEND:20250921T093000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:473905
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OJU17/19N1R1-0022: FEVO (J) - JTV D
 	ero ZELE - BERLARE (J)\n\nLocatie: Leupegem, 't Sportkot\nSompelplein 
-	39B, 9700 Leupegem\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd
+	39B, 9700 Leupegem\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd
 	 info wordt minstens 1x per dag geupdate. Dus als de update datum niet
 	 recent is, dan kan het zijn dat je niet de laatste informatie hebt. D
 	it ligt typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Leupegem, 't Sportkot, Sompelplein 39B, 9700 Leupegem Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -1289,16 +1289,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250928T120000Z
 DTEND:20250928T133000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:473906
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OJU17/19N1R1-0023: FEVO (J) - VC He
 	bo BORSBEKE-HERZELE (J)\n\nLocatie: Leupegem, 't Sportkot\nSompelplein
-	 39B, 9700 Leupegem\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrij
+	 39B, 9700 Leupegem\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrij
 	d info wordt minstens 1x per dag geupdate. Dus als de update datum nie
 	t recent is, dan kan het zijn dat je niet de laatste informatie hebt. 
 	Dit ligt typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Leupegem, 't Sportkot, Sompelplein 39B, 9700 Leupegem Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -1308,16 +1308,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251011T143000Z
 DTEND:20251011T160000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:473907
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OJU17/19N1R1-0024: Lindemans AALST (S) - Forza Evo Volley 
 	OUDENAARDE (J)\n\nLocatie: Moorsel, Sporthal Faluintjes\nBeugemstraat 
-	, 9310 Moorsel\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd inf
+	, 9310 Moorsel\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd inf
 	o wordt minstens 1x per dag geupdate. Dus als de update datum niet rec
 	ent is, dan kan het zijn dat je niet de laatste informatie hebt. Dit l
 	igt typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Moorsel, Sporthal Faluintjes, Beugemstraat, 9310 Moorsel Belg
 	ie
 SEQUENCE:0
@@ -1328,16 +1328,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251004T134500Z
 DTEND:20251004T151500Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:473909
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OJU17/19N1R1-0026: VC Hebo BORSBEKE-HERZELE (J) - Forza Ev
 	o Volley OUDENAARDE (J)\n\nLocatie: Herzele, Sporthal De Steenoven\nKe
-	rkkouter 40, 9550 Herzele\n\nLaatste update: 21/12/2025 16:29\n\nDe we
+	rkkouter 40, 9550 Herzele\n\nLaatste update: 22/12/2025 04:49\n\nDe we
 	dstrijd info wordt minstens 1x per dag geupdate. Dus als de update dat
 	um niet recent is, dan kan het zijn dat je niet de laatste informatie 
 	hebt. Dit ligt typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Herzele, Sporthal De Steenoven, Kerkkouter 40, 9550 Herzele B
 	elgie
 SEQUENCE:0
@@ -1348,16 +1348,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251116T143000Z
 DTEND:20251116T160000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:473910
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OJU17/19N1R1-0027: FEVO (J) - Caruu
 	r Volley GENT A (S)\n\nLocatie: Leupegem, 't Sportkot\nSompelplein 39B
-	, 9700 Leupegem\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd in
+	, 9700 Leupegem\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd in
 	fo wordt minstens 1x per dag geupdate. Dus als de update datum niet re
 	cent is, dan kan het zijn dat je niet de laatste informatie hebt. Dit 
 	ligt typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Leupegem, 't Sportkot, Sompelplein 39B, 9700 Leupegem Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -1367,16 +1367,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251123T093000Z
 DTEND:20251123T110000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:473911
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OJU17/19N1R1-0028: JTV Dero ZELE - BERLARE (J) - Forza Evo
 	 Volley OUDENAARDE (J)\n\nLocatie: Zele, Sporthal De Zeven\nKoevliet 1
-	, 9240 Zele\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info w
+	, 9240 Zele\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info w
 	ordt minstens 1x per dag geupdate. Dus als de update datum niet recent
 	 is, dan kan het zijn dat je niet de laatste informatie hebt. Dit ligt
 	 typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Zele, Sporthal De Zeven, Koevliet 1, 9240 Zele Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -1386,16 +1386,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251130T123000Z
 DTEND:20251130T140000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:473912
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OJU17/19N1R1-0029: FEVO (J) - Linde
 	mans AALST (S)\n\nLocatie: Leupegem, 't Sportkot\nSompelplein 39B, 970
-	0 Leupegem\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info wo
+	0 Leupegem\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info wo
 	rdt minstens 1x per dag geupdate. Dus als de update datum niet recent 
 	is, dan kan het zijn dat je niet de laatste informatie hebt. Dit ligt 
 	typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Leupegem, 't Sportkot, Sompelplein 39B, 9700 Leupegem Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -1405,17 +1405,17 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251206T143000Z
 DTEND:20251206T160000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:473913
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OJU17/19N1R1-0030: VC Spectrum MOERBEKE-WAAS (J) - Forza E
 	vo Volley OUDENAARDE (J)\n\nLocatie: Moerbeke-Waas, Gemeentelijke Spor
-	thal\nMoerhofstraat 18 B, 9180 Moerbeke-Waas\n\nLaatste update: 21/12/
-	2025 16:29\n\nDe wedstrijd info wordt minstens 1x per dag geupdate. Du
+	thal\nMoerhofstraat 18 B, 9180 Moerbeke-Waas\n\nLaatste update: 22/12/
+	2025 04:49\n\nDe wedstrijd info wordt minstens 1x per dag geupdate. Du
 	s als de update datum niet recent is, dan kan het zijn dat je niet de 
 	laatste informatie hebt. Dit ligt typisch aan instellingen op je telef
 	oon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Moerbeke-Waas, Gemeentelijke Sporthal, Moerhofstraat 18 B, 91
 	80 Moerbeke-Waas Belgie
 SEQUENCE:0
@@ -1453,16 +1453,16 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART:20251004T113000Z
 DTEND:20251004T130000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:464912
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OBPH-0012: FEVO B - Zovoc LIEVEGEM\
 	n\nLocatie: Leupegem, 't Sportkot\nSompelplein 39B, 9700 Leupegem\n\nL
-	aatste update: 21/12/2025 16:29\n\nDe wedstrijd info wordt minstens 1x
+	aatste update: 22/12/2025 04:49\n\nDe wedstrijd info wordt minstens 1x
 	 per dag geupdate. Dus als de update datum niet recent is, dan kan het
 	 zijn dat je niet de laatste informatie hebt. Dit ligt typisch aan ins
 	tellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Leupegem, 't Sportkot, Sompelplein 39B, 9700 Leupegem Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -1499,16 +1499,16 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART:20250921T160000Z
 DTEND:20250921T173000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:472368
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OHP3B-0002: CARUUR F - Sferos VBK DEINZE B\n\n
 	Locatie: Oostakker, Edugo Arena\nSint-Jozefstraat 16, 9041 Oostakker\n
-	\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info wordt minstens
+	\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info wordt minstens
 	 1x per dag geupdate. Dus als de update datum niet recent is, dan kan 
 	het zijn dat je niet de laatste informatie hebt. Dit ligt typisch aan 
 	instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Oostakker, Edugo Arena, Sint-Jozefstraat 16, 9041 Oostakker B
 	elgie
 SEQUENCE:0
@@ -1519,16 +1519,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250913T183000Z
 DTEND:20250913T200000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:472371
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OHP3B-0005: VC Hebo BORSBEKE-HERZELE - CARUUR 
 	F\n\nLocatie: Herzele, Sporthal De Steenoven\nKerkkouter 40, 9550 Herz
-	ele\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info wordt min
+	ele\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info wordt min
 	stens 1x per dag geupdate. Dus als de update datum niet recent is, dan
 	 kan het zijn dat je niet de laatste informatie hebt. Dit ligt typisch
 	 aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Herzele, Sporthal De Steenoven, Kerkkouter 40, 9550 Herzele B
 	elgie
 SEQUENCE:0
@@ -1539,16 +1539,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250928T160000Z
 DTEND:20250928T173000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:472375
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OHP3B-0009: CARUUR F - Dakwerken De Vos DENDER
 	HOUTEM C\n\nLocatie: Oostakker, Edugo Arena\nSint-Jozefstraat 16, 9041
-	 Oostakker\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info wo
+	 Oostakker\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info wo
 	rdt minstens 1x per dag geupdate. Dus als de update datum niet recent 
 	is, dan kan het zijn dat je niet de laatste informatie hebt. Dit ligt 
 	typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Oostakker, Edugo Arena, Sint-Jozefstraat 16, 9041 Oostakker B
 	elgie
 SEQUENCE:0
@@ -1559,16 +1559,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251011T183000Z
 DTEND:20251011T200000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:472379
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OHP3B-0013: FEVO B - Caruur Volley 
 	GENT F\n\nLocatie: Leupegem, 't Sportkot\nSompelplein 39B, 9700 Leupeg
-	em\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info wordt mins
+	em\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info wordt mins
 	tens 1x per dag geupdate. Dus als de update datum niet recent is, dan 
 	kan het zijn dat je niet de laatste informatie hebt. Dit ligt typisch 
 	aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Leupegem, 't Sportkot, Sompelplein 39B, 9700 Leupegem Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -1578,16 +1578,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251019T160000Z
 DTEND:20251019T173000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:472383
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OHP3B-0017: CARUUR F - VC KALKEN B\n\nLocatie:
 	 Oostakker, Edugo Arena\nSint-Jozefstraat 16, 9041 Oostakker\n\nLaatst
-	e update: 21/12/2025 16:29\n\nDe wedstrijd info wordt minstens 1x per 
+	e update: 22/12/2025 04:49\n\nDe wedstrijd info wordt minstens 1x per 
 	dag geupdate. Dus als de update datum niet recent is, dan kan het zijn
 	 dat je niet de laatste informatie hebt. Dit ligt typisch aan instelli
 	ngen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Oostakker, Edugo Arena, Sint-Jozefstraat 16, 9041 Oostakker B
 	elgie
 SEQUENCE:0
@@ -1598,16 +1598,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260118T170000Z
 DTEND:20260118T183000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:472388
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OHP3B-0022: CARUUR F -  Vlavo VLAAMSE ARDENNEN
 	\n\nLocatie: Oostakker, Edugo Arena\nSint-Jozefstraat 16, 9041 Oostakk
-	er\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info wordt mins
+	er\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info wordt mins
 	tens 1x per dag geupdate. Dus als de update datum niet recent is, dan 
 	kan het zijn dat je niet de laatste informatie hebt. Dit ligt typisch 
 	aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Oostakker, Edugo Arena, Sint-Jozefstraat 16, 9041 Oostakker B
 	elgie
 SEQUENCE:0
@@ -1618,16 +1618,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251115T190000Z
 DTEND:20251115T203000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:472394
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OHP3B-0028: VC Kuros ZULTE - CARUUR F\n\nLocat
 	ie: Zulte, Gemeentelijke Sporthal\nWaalstraat 118, 9870 Zulte\n\nLaats
-	te update: 21/12/2025 16:29\n\nDe wedstrijd info wordt minstens 1x per
+	te update: 22/12/2025 04:49\n\nDe wedstrijd info wordt minstens 1x per
 	 dag geupdate. Dus als de update datum niet recent is, dan kan het zij
 	n dat je niet de laatste informatie hebt. Dit ligt typisch aan instell
 	ingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Zulte, Gemeentelijke Sporthal, Waalstraat 118, 9870 Zulte Bel
 	gie
 SEQUENCE:0
@@ -1638,16 +1638,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251122T190000Z
 DTEND:20251122T203000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:472396
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OHP3B-0030: Sferos VBK DEINZE B - CARUUR F\n\n
 	Locatie: Deinze, Sporthal Palaestra\nKastanjelaan 55, 9800 Deinze\n\nL
-	aatste update: 21/12/2025 16:29\n\nDe wedstrijd info wordt minstens 1x
+	aatste update: 22/12/2025 04:49\n\nDe wedstrijd info wordt minstens 1x
 	 per dag geupdate. Dus als de update datum niet recent is, dan kan het
 	 zijn dat je niet de laatste informatie hebt. Dit ligt typisch aan ins
 	tellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Deinze, Sporthal Palaestra, Kastanjelaan 55, 9800 Deinze Belg
 	ie
 SEQUENCE:0
@@ -1658,16 +1658,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251130T170000Z
 DTEND:20251130T183000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:472400
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OHP3B-0034: CARUUR F - VC Hebo BORSBEKE-HERZEL
 	E\n\nLocatie: Oostakker, Edugo Arena\nSint-Jozefstraat 16, 9041 Oostak
-	ker\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info wordt min
+	ker\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info wordt min
 	stens 1x per dag geupdate. Dus als de update datum niet recent is, dan
 	 kan het zijn dat je niet de laatste informatie hebt. Dit ligt typisch
 	 aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Oostakker, Edugo Arena, Sint-Jozefstraat 16, 9041 Oostakker B
 	elgie
 SEQUENCE:0
@@ -1678,16 +1678,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260124T190000Z
 DTEND:20260124T203000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:472406
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OHP3B-0040: Dakwerken De Vos DENDERHOUTEM C - Caruur Volle
 	y GENT F\n\nLocatie: Denderhoutem, Gem. Sporthal\nPastorijweg 23, 9450
-	 Denderhoutem\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info
+	 Denderhoutem\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info
 	 wordt minstens 1x per dag geupdate. Dus als de update datum niet rece
 	nt is, dan kan het zijn dat je niet de laatste informatie hebt. Dit li
 	gt typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Denderhoutem, Gem. Sporthal, Pastorijweg 23, 9450 Denderhoute
 	m Belgie
 SEQUENCE:0
@@ -1698,16 +1698,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251214T170000Z
 DTEND:20251214T183000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:472407
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OHP3B-0041: CARUUR F - Forza Evo Volley OUDENA
 	ARDE B\n\nLocatie: Oostakker, Edugo Arena\nSint-Jozefstraat 16, 9041 O
-	ostakker\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info word
+	ostakker\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info word
 	t minstens 1x per dag geupdate. Dus als de update datum niet recent is
 	, dan kan het zijn dat je niet de laatste informatie hebt. Dit ligt ty
 	pisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Oostakker, Edugo Arena, Sint-Jozefstraat 16, 9041 Oostakker B
 	elgie
 SEQUENCE:0
@@ -1718,16 +1718,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260214T153000Z
 DTEND:20260214T170000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:472413
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OHP3B-0047: VC KALKEN B - CARUUR F\n\nLocatie:
-	 Laarne, Sporthal Laarne\nLeeweg 26, 9270 Laarne\n\nLaatste update: 21
-	/12/2025 16:29\n\nDe wedstrijd info wordt minstens 1x per dag geupdate
+	 Laarne, Sporthal Laarne\nLeeweg 26, 9270 Laarne\n\nLaatste update: 22
+	/12/2025 04:49\n\nDe wedstrijd info wordt minstens 1x per dag geupdate
 	. Dus als de update datum niet recent is, dan kan het zijn dat je niet
 	 de laatste informatie hebt. Dit ligt typisch aan instellingen op je t
 	elefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Laarne, Sporthal Laarne, Leeweg 26, 9270 Laarne Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -1737,16 +1737,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T160000Z
 DTEND:20251025T173000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:472417
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OHP3B-0051:  Vlavo VLAAMSE ARDENNEN - CARUUR F
 	\n\nLocatie: Michelbeke, Sporthal Averbo\nRiedeplein 15B, 9660 Michelb
-	eke\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info wordt min
+	eke\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info wordt min
 	stens 1x per dag geupdate. Dus als de update datum niet recent is, dan
 	 kan het zijn dat je niet de laatste informatie hebt. Dit ligt typisch
 	 aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Michelbeke, Sporthal Averbo, Riedeplein 15B, 9660 Michelbeke 
 	Belgie
 SEQUENCE:0
@@ -1757,16 +1757,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260201T170000Z
 DTEND:20260201T183000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:472420
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OHP3B-0054: CARUUR F - VC Kuros ZULTE\n\nLocat
 	ie: Oostakker, Edugo Arena\nSint-Jozefstraat 16, 9041 Oostakker\n\nLaa
-	tste update: 21/12/2025 16:29\n\nDe wedstrijd info wordt minstens 1x p
+	tste update: 22/12/2025 04:49\n\nDe wedstrijd info wordt minstens 1x p
 	er dag geupdate. Dus als de update datum niet recent is, dan kan het z
 	ijn dat je niet de laatste informatie hebt. Dit ligt typisch aan inste
 	llingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Oostakker, Edugo Arena, Sint-Jozefstraat 16, 9041 Oostakker B
 	elgie
 SEQUENCE:0
@@ -1777,16 +1777,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260322T170000Z
 DTEND:20260322T183000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:472424
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OHP3B-0058: CARUUR F - Sferos VBK DEINZE B\n\n
 	Locatie: Oostakker, Edugo Arena\nSint-Jozefstraat 16, 9041 Oostakker\n
-	\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info wordt minstens
+	\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info wordt minstens
 	 1x per dag geupdate. Dus als de update datum niet recent is, dan kan 
 	het zijn dat je niet de laatste informatie hebt. Dit ligt typisch aan 
 	instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Oostakker, Edugo Arena, Sint-Jozefstraat 16, 9041 Oostakker B
 	elgie
 SEQUENCE:0
@@ -1797,16 +1797,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260328T193000Z
 DTEND:20260328T210000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:472427
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OHP3B-0061: VC Hebo BORSBEKE-HERZELE - CARUUR 
 	F\n\nLocatie: Herzele, Sporthal De Steenoven\nKerkkouter 40, 9550 Herz
-	ele\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info wordt min
+	ele\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info wordt min
 	stens 1x per dag geupdate. Dus als de update datum niet recent is, dan
 	 kan het zijn dat je niet de laatste informatie hebt. Dit ligt typisch
 	 aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Herzele, Sporthal De Steenoven, Kerkkouter 40, 9550 Herzele B
 	elgie
 SEQUENCE:0
@@ -1817,16 +1817,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260419T160000Z
 DTEND:20260419T173000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:472431
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OHP3B-0065: CARUUR F - Dakwerken De Vos DENDER
 	HOUTEM C\n\nLocatie: Oostakker, Edugo Arena\nSint-Jozefstraat 16, 9041
-	 Oostakker\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info wo
+	 Oostakker\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info wo
 	rdt minstens 1x per dag geupdate. Dus als de update datum niet recent 
 	is, dan kan het zijn dat je niet de laatste informatie hebt. Dit ligt 
 	typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Oostakker, Edugo Arena, Sint-Jozefstraat 16, 9041 Oostakker B
 	elgie
 SEQUENCE:0
@@ -1837,16 +1837,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260207T143000Z
 DTEND:20260207T160000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:472435
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OHP3B-0069: FEVO B - Caruur Volley 
 	GENT F\n\nLocatie: Leupegem, 't Sportkot\nSompelplein 39B, 9700 Leupeg
-	em\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info wordt mins
+	em\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info wordt mins
 	tens 1x per dag geupdate. Dus als de update datum niet recent is, dan 
 	kan het zijn dat je niet de laatste informatie hebt. Dit ligt typisch 
 	aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Leupegem, 't Sportkot, Sompelplein 39B, 9700 Leupegem Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -1856,16 +1856,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260222T170000Z
 DTEND:20260222T183000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:472439
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OHP3B-0073: CARUUR F - VC KALKEN B\n\nLocatie:
 	 Oostakker, Edugo Arena\nSint-Jozefstraat 16, 9041 Oostakker\n\nLaatst
-	e update: 21/12/2025 16:29\n\nDe wedstrijd info wordt minstens 1x per 
+	e update: 22/12/2025 04:49\n\nDe wedstrijd info wordt minstens 1x per 
 	dag geupdate. Dus als de update datum niet recent is, dan kan het zijn
 	 dat je niet de laatste informatie hebt. Dit ligt typisch aan instelli
 	ngen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Oostakker, Edugo Arena, Sint-Jozefstraat 16, 9041 Oostakker B
 	elgie
 SEQUENCE:0
@@ -1876,16 +1876,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260315T170000Z
 DTEND:20260315T183000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:472444
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OHP3B-0078: CARUUR F -  Vlavo VLAAMSE ARDENNEN
 	\n\nLocatie: Oostakker, Edugo Arena\nSint-Jozefstraat 16, 9041 Oostakk
-	er\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info wordt mins
+	er\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info wordt mins
 	tens 1x per dag geupdate. Dus als de update datum niet recent is, dan 
 	kan het zijn dat je niet de laatste informatie hebt. Dit ligt typisch 
 	aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Oostakker, Edugo Arena, Sint-Jozefstraat 16, 9041 Oostakker B
 	elgie
 SEQUENCE:0
@@ -1896,16 +1896,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260307T190000Z
 DTEND:20260307T203000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:472450
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OHP3B-0084: VC Kuros ZULTE - CARUUR F\n\nLocat
 	ie: Zulte, Gemeentelijke Sporthal\nWaalstraat 118, 9870 Zulte\n\nLaats
-	te update: 21/12/2025 16:29\n\nDe wedstrijd info wordt minstens 1x per
+	te update: 22/12/2025 04:49\n\nDe wedstrijd info wordt minstens 1x per
 	 dag geupdate. Dus als de update datum niet recent is, dan kan het zij
 	n dat je niet de laatste informatie hebt. Dit ligt typisch aan instell
 	ingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Zulte, Gemeentelijke Sporthal, Waalstraat 118, 9870 Zulte Bel
 	gie
 SEQUENCE:0
@@ -1943,16 +1943,16 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART:20260111T123000Z
 DTEND:20260111T140000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:465006
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OBJ17-0008: Griffoenen STEENHUIZE - CARUUR\n\n
 	Locatie: Steenhuize, Sporthal Amalrik\nHolmanstraat 37b, 9550 Steenhui
-	ze-Wijnhuize\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info 
+	ze-Wijnhuize\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info 
 	wordt minstens 1x per dag geupdate. Dus als de update datum niet recen
 	t is, dan kan het zijn dat je niet de laatste informatie hebt. Dit lig
 	t typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Steenhuize, Sporthal Amalrik, Holmanstraat 37b, 9550 Steenhui
 	ze-Wijnhuize Belgie
 SEQUENCE:0
@@ -1990,16 +1990,16 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART:20251005T160000Z
 DTEND:20251005T173000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:464913
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OBPH-0013: CARUUR F - Dakwerken De Vos DENDERH
 	OUTEM\n\nLocatie: Oostakker, Edugo Arena\nSint-Jozefstraat 16, 9041 Oo
-	stakker\n\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info wordt
+	stakker\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info wordt
 	 minstens 1x per dag geupdate. Dus als de update datum niet recent is,
 	 dan kan het zijn dat je niet de laatste informatie hebt. Dit ligt typ
 	isch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Oostakker, Edugo Arena, Sint-Jozefstraat 16, 9041 Oostakker B
 	elgie
 SEQUENCE:0
@@ -2010,16 +2010,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251109T170000Z
 DTEND:20251109T183000Z
-DTSTAMP:20251221T152900Z
+DTSTAMP:20251222T034900Z
 UID:464921
-CREATED:20251221T152900Z
+CREATED:20251222T034900Z
 DESCRIPTION:OBPH-0021: CARUUR F - Navok Heren NAZARETH\n\n
 	Locatie: Oostakker, Edugo Arena\nSint-Jozefstraat 16, 9041 Oostakker\n
-	\nLaatste update: 21/12/2025 16:29\n\nDe wedstrijd info wordt minstens
+	\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info wordt minstens
 	 1x per dag geupdate. Dus als de update datum niet recent is, dan kan 
 	het zijn dat je niet de laatste informatie hebt. Dit ligt typisch aan 
 	instellingen op je telefoon.
-LAST-MODIFIED:20251221T152900Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Oostakker, Edugo Arena, Sint-Jozefstraat 16, 9041 Oostakker B
 	elgie
 SEQUENCE:0
@@ -2606,16 +2606,16 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART:20260110T190000Z
 DTEND:20260110T203000Z
-DTSTAMP:20251221T153000Z
+DTSTAMP:20251222T034900Z
 UID:471343
-CREATED:20251221T153000Z
+CREATED:20251222T034900Z
 DESCRIPTION:LIGD-001: ES Charleroi Volley A - Vlavo Saturnus Michelbek
 	e A\n\nLocatie: Monceau, Salle Ballens ASBL \nRue Camus 24, 6031 Monce
-	au-sur-Sambre\n\nLaatste update: 21/12/2025 16:30\n\nDe wedstrijd info
+	au-sur-Sambre\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info
 	 wordt minstens 1x per dag geupdate. Dus als de update datum niet rece
 	nt is, dan kan het zijn dat je niet de laatste informatie hebt. Dit li
 	gt typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T153000Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Monceau, Salle Ballens ASBL , Rue Camus 24, 6031 Monceau-sur-
 	Sambre Belgie
 SEQUENCE:0
@@ -2626,16 +2626,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251019T153000Z
 DTEND:20251019T170000Z
-DTSTAMP:20251221T153000Z
+DTSTAMP:20251222T034900Z
 UID:471351
-CREATED:20251221T153000Z
+CREATED:20251222T034900Z
 DESCRIPTION:LIGD-009: Michelbeke - Thuismakers Brabo 
 	Antwerp VT A\n\nLocatie: Brakel, Sporthal AVERBO\nRiedeplein 15b , 966
-	0 Brakel\n\nLaatste update: 21/12/2025 16:30\n\nDe wedstrijd info word
+	0 Brakel\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info word
 	t minstens 1x per dag geupdate. Dus als de update datum niet recent is
 	, dan kan het zijn dat je niet de laatste informatie hebt. Dit ligt ty
 	pisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T153000Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Brakel, Sporthal AVERBO, Riedeplein 15b, 9660 Brakel Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -2645,17 +2645,17 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251101T193000Z
 DTEND:20251101T210000Z
-DTSTAMP:20251221T153000Z
+DTSTAMP:20251222T034900Z
 UID:471355
-CREATED:20251221T153000Z
+CREATED:20251222T034900Z
 DESCRIPTION:LIGD-013: KwadrO Amigos Sint-Antonius Zoersel A - Vlavo Sa
 	turnus Michelbeke A\n\nLocatie: Zoersel, St Antonius Global Catering A
-	rena\nAchterstraat  30, 2980 St-Antonius Zoersel\n\nLaatste update: 21
-	/12/2025 16:30\n\nDe wedstrijd info wordt minstens 1x per dag geupdate
+	rena\nAchterstraat  30, 2980 St-Antonius Zoersel\n\nLaatste update: 22
+	/12/2025 04:49\n\nDe wedstrijd info wordt minstens 1x per dag geupdate
 	. Dus als de update datum niet recent is, dan kan het zijn dat je niet
 	 de laatste informatie hebt. Dit ligt typisch aan instellingen op je t
 	elefoon.
-LAST-MODIFIED:20251221T153000Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Zoersel, St Antonius Global Catering Arena, Achterstraat  30,
 	 2980 St-Antonius Zoersel Belgie
 SEQUENCE:0
@@ -2666,16 +2666,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251109T153000Z
 DTEND:20251109T170000Z
-DTSTAMP:20251221T153000Z
+DTSTAMP:20251222T034900Z
 UID:471358
-CREATED:20251221T153000Z
+CREATED:20251222T034900Z
 DESCRIPTION:LIGD-016: VC Oudegem A - Michelbeke\n\nLo
 	catie: Dendermonde, Sportcentrum Sint-Gillis\nVan Langenhovestraat  20
-	3A, 9200 Dendermonde\n\nLaatste update: 21/12/2025 16:30\n\nDe wedstri
+	3A, 9200 Dendermonde\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstri
 	jd info wordt minstens 1x per dag geupdate. Dus als de update datum ni
 	et recent is, dan kan het zijn dat je niet de laatste informatie hebt.
 	 Dit ligt typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T153000Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Dendermonde, Sportcentrum Sint-Gillis, Van Langenhovestraat  
 	203A, 9200 Dendermonde Belgie
 SEQUENCE:0
@@ -2686,16 +2686,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251116T163000Z
 DTEND:20251116T180000Z
-DTSTAMP:20251221T153000Z
+DTSTAMP:20251222T034900Z
 UID:471367
-CREATED:20251221T153000Z
+CREATED:20251222T034900Z
 DESCRIPTION:LIGD-025: Michelbeke - Asterix AVO Bevere
 	n A\n\nLocatie: Brakel, Sporthal AVERBO\nRiedeplein 15b , 9660 Brakel\
-	n\nLaatste update: 21/12/2025 16:30\n\nDe wedstrijd info wordt minsten
+	n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info wordt minsten
 	s 1x per dag geupdate. Dus als de update datum niet recent is, dan kan
 	 het zijn dat je niet de laatste informatie hebt. Dit ligt typisch aan
 	 instellingen op je telefoon.
-LAST-MODIFIED:20251221T153000Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Brakel, Sporthal AVERBO, Riedeplein 15b, 9660 Brakel Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -2705,16 +2705,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251123T163000Z
 DTEND:20251123T180000Z
-DTSTAMP:20251221T153000Z
+DTSTAMP:20251222T034900Z
 UID:471372
-CREATED:20251221T153000Z
+CREATED:20251222T034900Z
 DESCRIPTION:LIGD-030: Michelbeke - Damesvolley Dok No
 	ord Gent A\n\nLocatie: Brakel, Sporthal AVERBO\nRiedeplein 15b , 9660 
-	Brakel\n\nLaatste update: 21/12/2025 16:30\n\nDe wedstrijd info wordt 
+	Brakel\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info wordt 
 	minstens 1x per dag geupdate. Dus als de update datum niet recent is, 
 	dan kan het zijn dat je niet de laatste informatie hebt. Dit ligt typi
 	sch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T153000Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Brakel, Sporthal AVERBO, Riedeplein 15b, 9660 Brakel Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -2724,16 +2724,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251206T153000Z
 DTEND:20251206T170000Z
-DTSTAMP:20251221T153000Z
+DTSTAMP:20251222T034900Z
 UID:471377
-CREATED:20251221T153000Z
+CREATED:20251222T034900Z
 DESCRIPTION:LIGD-035: Darta Bevo Roeselare A - Vlavo Saturnus Michelbe
 	ke A\n\nLocatie: Roeselare, REO Arena\nDiksmuidsesteenweg 396, 8800 Ro
-	eselare\n\nLaatste update: 21/12/2025 16:30\n\nDe wedstrijd info wordt
+	eselare\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info wordt
 	 minstens 1x per dag geupdate. Dus als de update datum niet recent is,
 	 dan kan het zijn dat je niet de laatste informatie hebt. Dit ligt typ
 	isch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T153000Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Roeselare, REO Arena, Diksmuidsesteenweg 396, 8800 Roeselare 
 	Belgie
 SEQUENCE:0
@@ -2744,16 +2744,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251217T193000Z
 DTEND:20251217T210000Z
-DTSTAMP:20251221T153000Z
+DTSTAMP:20251222T034900Z
 UID:471384
-CREATED:20251221T153000Z
+CREATED:20251222T034900Z
 DESCRIPTION:LIGD-042: CapitalAtWork Tchalou Volley A - Vlavo Saturnus 
 	Michelbeke A\n\nLocatie: Thuillies, Shape N Go Arena\n2, Rue de Donsti
-	ennes , 6536 Thuillies\n\nLaatste update: 21/12/2025 16:30\n\nDe wedst
+	ennes , 6536 Thuillies\n\nLaatste update: 22/12/2025 04:49\n\nDe wedst
 	rijd info wordt minstens 1x per dag geupdate. Dus als de update datum 
 	niet recent is, dan kan het zijn dat je niet de laatste informatie heb
 	t. Dit ligt typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T153000Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Thuillies, Shape N Go Arena, 2, Rue de Donstiennes, 6536 Thui
 	llies Belgie
 SEQUENCE:0
@@ -2764,16 +2764,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251221T163000Z
 DTEND:20251221T180000Z
-DTSTAMP:20251221T153000Z
+DTSTAMP:20251222T034900Z
 UID:471391
-CREATED:20251221T153000Z
+CREATED:20251222T034900Z
 DESCRIPTION:LIGD-049: Michelbeke - Servantes Volley N
 	oorderkempen A\n\nLocatie: Brakel, Sporthal AVERBO\nRiedeplein 15b , 9
-	660 Brakel\n\nLaatste update: 21/12/2025 16:30\n\nDe wedstrijd info wo
+	660 Brakel\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info wo
 	rdt minstens 1x per dag geupdate. Dus als de update datum niet recent 
 	is, dan kan het zijn dat je niet de laatste informatie hebt. Dit ligt 
 	typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T153000Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Brakel, Sporthal AVERBO, Riedeplein 15b, 9660 Brakel Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -2783,16 +2783,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260104T173000Z
 DTEND:20260104T190000Z
-DTSTAMP:20251221T153000Z
+DTSTAMP:20251222T034900Z
 UID:471393
-CREATED:20251221T153000Z
+CREATED:20251222T034900Z
 DESCRIPTION:LIGD-051: NRG VC Geel A - Michelbeke\n\nL
 	ocatie: Geel, Sportcentrum Axion\nZwaarvoerdersspoor  4, 2440 Geel\n\n
-	Laatste update: 21/12/2025 16:30\n\nDe wedstrijd info wordt minstens 1
+	Laatste update: 22/12/2025 04:49\n\nDe wedstrijd info wordt minstens 1
 	x per dag geupdate. Dus als de update datum niet recent is, dan kan he
 	t zijn dat je niet de laatste informatie hebt. Dit ligt typisch aan in
 	stellingen op je telefoon.
-LAST-MODIFIED:20251221T153000Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Geel, Sportcentrum Axion, Zwaarvoerdersspoor  4, 2440 Geel Be
 	lgie
 SEQUENCE:0
@@ -2803,16 +2803,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251012T153000Z
 DTEND:20251012T170000Z
-DTSTAMP:20251221T153000Z
+DTSTAMP:20251222T034900Z
 UID:471398
-CREATED:20251221T153000Z
+CREATED:20251222T034900Z
 DESCRIPTION:LIGD-056: Michelbeke - ES Charleroi Volle
 	y A\n\nLocatie: Brakel, Sporthal AVERBO\nRiedeplein 15b , 9660 Brakel\
-	n\nLaatste update: 21/12/2025 16:30\n\nDe wedstrijd info wordt minsten
+	n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info wordt minsten
 	s 1x per dag geupdate. Dus als de update datum niet recent is, dan kan
 	 het zijn dat je niet de laatste informatie hebt. Dit ligt typisch aan
 	 instellingen op je telefoon.
-LAST-MODIFIED:20251221T153000Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Brakel, Sporthal AVERBO, Riedeplein 15b, 9660 Brakel Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -2822,16 +2822,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260117T160000Z
 DTEND:20260117T173000Z
-DTSTAMP:20251221T153000Z
+DTSTAMP:20251222T034900Z
 UID:471406
-CREATED:20251221T153000Z
+CREATED:20251222T034900Z
 DESCRIPTION:LIGD-064: Thuismakers Brabo Antwerp VT A - Vlavo Saturnus 
 	Michelbeke A\n\nLocatie: Deurne, Sporthal Arena \nArenaplein 1, 2100 D
-	eurne\n\nLaatste update: 21/12/2025 16:30\n\nDe wedstrijd info wordt m
+	eurne\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info wordt m
 	instens 1x per dag geupdate. Dus als de update datum niet recent is, d
 	an kan het zijn dat je niet de laatste informatie hebt. Dit ligt typis
 	ch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T153000Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Deurne, Sporthal Arena , Arenaplein 1, 2100 Deurne Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -2841,16 +2841,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260125T163000Z
 DTEND:20260125T180000Z
-DTSTAMP:20251221T153000Z
+DTSTAMP:20251222T034900Z
 UID:471410
-CREATED:20251221T153000Z
+CREATED:20251222T034900Z
 DESCRIPTION:LIGD-068: Michelbeke - KwadrO Amigos Sint
 	-Antonius Zoersel A\n\nLocatie: Brakel, Sporthal AVERBO\nRiedeplein 15
-	b , 9660 Brakel\n\nLaatste update: 21/12/2025 16:30\n\nDe wedstrijd in
+	b , 9660 Brakel\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd in
 	fo wordt minstens 1x per dag geupdate. Dus als de update datum niet re
 	cent is, dan kan het zijn dat je niet de laatste informatie hebt. Dit 
 	ligt typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T153000Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Brakel, Sporthal AVERBO, Riedeplein 15b, 9660 Brakel Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -2860,16 +2860,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260131T193000Z
 DTEND:20260131T210000Z
-DTSTAMP:20251221T153000Z
+DTSTAMP:20251222T034900Z
 UID:471417
-CREATED:20251221T153000Z
+CREATED:20251222T034900Z
 DESCRIPTION:LIGD-075: Asterix AVO Beveren A - Vlavo Saturnus Michelbek
 	e A\n\nLocatie: Beveren, Sportpark Beveren B\nKlapperstraat 103, 9120 
-	Beveren-Waas\n\nLaatste update: 21/12/2025 16:30\n\nDe wedstrijd info 
+	Beveren-Waas\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info 
 	wordt minstens 1x per dag geupdate. Dus als de update datum niet recen
 	t is, dan kan het zijn dat je niet de laatste informatie hebt. Dit lig
 	t typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T153000Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Beveren, Sportpark Beveren B, Klapperstraat 103, 9120 Beveren
 	-Waas Belgie
 SEQUENCE:0
@@ -2880,16 +2880,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260208T163000Z
 DTEND:20260208T180000Z
-DTSTAMP:20251221T153000Z
+DTSTAMP:20251222T034900Z
 UID:471418
-CREATED:20251221T153000Z
+CREATED:20251222T034900Z
 DESCRIPTION:LIGD-076: Michelbeke - VC Oudegem A\n\nLo
 	catie: Brakel, Sporthal AVERBO\nRiedeplein 15b , 9660 Brakel\n\nLaatst
-	e update: 21/12/2025 16:30\n\nDe wedstrijd info wordt minstens 1x per 
+	e update: 22/12/2025 04:49\n\nDe wedstrijd info wordt minstens 1x per 
 	dag geupdate. Dus als de update datum niet recent is, dan kan het zijn
 	 dat je niet de laatste informatie hebt. Dit ligt typisch aan instelli
 	ngen op je telefoon.
-LAST-MODIFIED:20251221T153000Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Brakel, Sporthal AVERBO, Riedeplein 15b, 9660 Brakel Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -2899,16 +2899,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260211T193000Z
 DTEND:20260211T210000Z
-DTSTAMP:20251221T153000Z
+DTSTAMP:20251222T034900Z
 UID:471427
-CREATED:20251221T153000Z
+CREATED:20251222T034900Z
 DESCRIPTION:LIGD-085: Damesvolley Dok Noord Gent A - Vlavo Saturnus Mi
 	chelbeke A\n\nLocatie: Oostakker, Edugo Arena\nSint-Jozefstraat 16, 90
-	41 Oostakker\n\nLaatste update: 21/12/2025 16:30\n\nDe wedstrijd info 
+	41 Oostakker\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info 
 	wordt minstens 1x per dag geupdate. Dus als de update datum niet recen
 	t is, dan kan het zijn dat je niet de laatste informatie hebt. Dit lig
 	t typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T153000Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Oostakker, Edugo Arena, Sint-Jozefstraat 16, 9041 Oostakker B
 	elgie
 SEQUENCE:0
@@ -2919,16 +2919,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260215T163000Z
 DTEND:20260215T180000Z
-DTSTAMP:20251221T153000Z
+DTSTAMP:20251222T034900Z
 UID:471432
-CREATED:20251221T153000Z
+CREATED:20251222T034900Z
 DESCRIPTION:LIGD-090: Michelbeke - Darta Bevo Roesela
 	re A\n\nLocatie: Brakel, Sporthal AVERBO\nRiedeplein 15b , 9660 Brakel
-	\n\nLaatste update: 21/12/2025 16:30\n\nDe wedstrijd info wordt minste
+	\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info wordt minste
 	ns 1x per dag geupdate. Dus als de update datum niet recent is, dan ka
 	n het zijn dat je niet de laatste informatie hebt. Dit ligt typisch aa
 	n instellingen op je telefoon.
-LAST-MODIFIED:20251221T153000Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Brakel, Sporthal AVERBO, Riedeplein 15b, 9660 Brakel Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -2938,16 +2938,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260222T163000Z
 DTEND:20260222T180000Z
-DTSTAMP:20251221T153000Z
+DTSTAMP:20251222T034900Z
 UID:471438
-CREATED:20251221T153000Z
+CREATED:20251222T034900Z
 DESCRIPTION:LIGD-096: Michelbeke - NRG VC Geel A\n\nL
 	ocatie: Brakel, Sporthal AVERBO\nRiedeplein 15b , 9660 Brakel\n\nLaats
-	te update: 21/12/2025 16:30\n\nDe wedstrijd info wordt minstens 1x per
+	te update: 22/12/2025 04:49\n\nDe wedstrijd info wordt minstens 1x per
 	 dag geupdate. Dus als de update datum niet recent is, dan kan het zij
 	n dat je niet de laatste informatie hebt. Dit ligt typisch aan instell
 	ingen op je telefoon.
-LAST-MODIFIED:20251221T153000Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Brakel, Sporthal AVERBO, Riedeplein 15b, 9660 Brakel Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -2957,16 +2957,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260225T193000Z
 DTEND:20260225T210000Z
-DTSTAMP:20251221T153000Z
+DTSTAMP:20251222T034900Z
 UID:471444
-CREATED:20251221T153000Z
+CREATED:20251222T034900Z
 DESCRIPTION:LIGD-102: Michelbeke - CapitalAtWork Tcha
 	lou Volley A\n\nLocatie: Brakel, Sporthal AVERBO\nRiedeplein 15b , 966
-	0 Brakel\n\nLaatste update: 21/12/2025 16:30\n\nDe wedstrijd info word
+	0 Brakel\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrijd info word
 	t minstens 1x per dag geupdate. Dus als de update datum niet recent is
 	, dan kan het zijn dat je niet de laatste informatie hebt. Dit ligt ty
 	pisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T153000Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Brakel, Sporthal AVERBO, Riedeplein 15b, 9660 Brakel Belgie
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -2976,16 +2976,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260228T193000Z
 DTEND:20260228T210000Z
-DTSTAMP:20251221T153000Z
+DTSTAMP:20251222T034900Z
 UID:471451
-CREATED:20251221T153000Z
+CREATED:20251222T034900Z
 DESCRIPTION:LIGD-109: Servantes Volley Noorderkempen A - Vlavo Saturnu
 	s Michelbeke A\n\nLocatie: Vosselaar, Sporthal Diepvenneke \nDiepvenne
-	ke 43 , 2350 Vosselaar\n\nLaatste update: 21/12/2025 16:30\n\nDe wedst
+	ke 43 , 2350 Vosselaar\n\nLaatste update: 22/12/2025 04:49\n\nDe wedst
 	rijd info wordt minstens 1x per dag geupdate. Dus als de update datum 
 	niet recent is, dan kan het zijn dat je niet de laatste informatie heb
 	t. Dit ligt typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T153000Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Vosselaar, Sporthal Diepvenneke , Diepvenneke 43, 2350 Vossel
 	aar Belgie
 SEQUENCE:0
@@ -2996,16 +2996,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T183000Z
 DTEND:20251025T200000Z
-DTSTAMP:20251221T153000Z
+DTSTAMP:20251222T034900Z
 UID:481973
-CREATED:20251221T153000Z
+CREATED:20251222T034900Z
 DESCRIPTION:BCD-019: Servantes Volley Noorderkempen A - Vlavo Saturnus
 	 Michelbeke A\n\nLocatie: Vosselaar, Sporthal Diepvenneke \nDiepvennek
-	e 43 , 2350 Vosselaar\n\nLaatste update: 21/12/2025 16:30\n\nDe wedstr
+	e 43 , 2350 Vosselaar\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstr
 	ijd info wordt minstens 1x per dag geupdate. Dus als de update datum n
 	iet recent is, dan kan het zijn dat je niet de laatste informatie hebt
 	. Dit ligt typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T153000Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Vosselaar, Sporthal Diepvenneke , Diepvenneke 43, 2350 Vossel
 	aar Belgie
 SEQUENCE:0
@@ -3016,16 +3016,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251112T193000Z
 DTEND:20251112T210000Z
-DTSTAMP:20251221T153000Z
+DTSTAMP:20251222T034900Z
 UID:481990
-CREATED:20251221T153000Z
+CREATED:20251222T034900Z
 DESCRIPTION:BCD-025: Darta Bevo Roeselare B N1 - Vlavo Saturnus Michel
 	beke A\n\nLocatie: Roeselare, Darta Arena\nIzegemseaardeweg  30, 8800 
-	Beveren (Roeselare)\n\nLaatste update: 21/12/2025 16:30\n\nDe wedstrij
+	Beveren (Roeselare)\n\nLaatste update: 22/12/2025 04:49\n\nDe wedstrij
 	d info wordt minstens 1x per dag geupdate. Dus als de update datum nie
 	t recent is, dan kan het zijn dat je niet de laatste informatie hebt. 
 	Dit ligt typisch aan instellingen op je telefoon.
-LAST-MODIFIED:20251221T153000Z
+LAST-MODIFIED:20251222T034900Z
 LOCATION:Roeselare, Darta Arena, Izegemseaardeweg  30, 8800 Beveren (R
 	oeselare) Belgie
 SEQUENCE:0
