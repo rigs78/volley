@@ -52,8 +52,11 @@ def verwerk_ics(ics_inhoud):
     # Mapping van wedstrijdcodeprefix naar afkorting
     code_mappings = {
         "OMU17N2R1c": "M17A",
+        "OMU17N1R2B": "M17A",
         "OMU17N2R1e": "M17B",
+        "OMU17N2R2C": "M17B",
         "OMU15N1R1c": "M15A",
+        "OMU15N1R2A": "M15A",
         "OBM17": "Beker M17",
         "OBM15": "Beker M15",
         "OBJ15": "Beker J15",
@@ -61,7 +64,9 @@ def verwerk_ics(ics_inhoud):
         "OHP3B": "HP3",
         "U15B": "JAGO",
         "19N1R1": "J19",
+        "19N1R2": "J19",
         "OJU15N2R1c": "J15",
+        "OJU15N2R2b: "J15",
         "LIGD": "LIGD"
     }
 
