@@ -66,7 +66,7 @@ def verwerk_ics(ics_inhoud):
         "19N1R1": "J19",
         "19N1R2": "J19",
         "OJU15N2R1c": "J15",
-        "OJU15N2R2b: "J15",
+        "OJU15N2R2b": "J15",
         "LIGD": "LIGD"
     }
 
